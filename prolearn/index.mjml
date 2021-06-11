@@ -1,0 +1,26 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reveal-al</mj-title>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Poppins, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b" />
+    </mj-attributes>
+    <mj-style> .mobileView { display: none; } .desktopView { display: block;}@media only screen and (max-width:480px){ .mobileView { display: block; } .desktopView { display: none !important; }} </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#ffffff">
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image href="#" target="_blank" src="img/logo.png" width="350px" align="center"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text font-family="Poppins, Arial" font-weight="600">
+          Dear <span>Learnapalooza</span> Attendee
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
