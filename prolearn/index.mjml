@@ -3,24 +3,92 @@
     <mj-title>Reveal-al</mj-title>
     <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" />
     <mj-attributes>
-      <mj-all font-family="Poppins, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b" />
+      <mj-all font-family="Poppins, Arial" font-size="17px" font-weight="400" line-height="28px" color="#42474b" />
     </mj-attributes>
     <mj-style> .mobileView { display: none; } .desktopView { display: block;}@media only screen and (max-width:480px){ .mobileView { display: block; } .desktopView { display: none !important; }} </mj-style>
   </mj-head>
   <mj-body>
     <mj-wrapper full-width padding="0" background-color="#ffffff">
-      <mj-section padding="0">
+      <mj-section padding="20px 0 30px">
         <mj-column>
           <mj-image href="#" target="_blank" src="img/logo.png" width="350px" align="center"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
         <mj-column>
-          <mj-text font-family="Poppins, Arial" font-weight="600">
-          Dear <span>Learnapalooza</span> Attendee
-          </mj-text>
+          <mj-text font-size="20px" font-family="Poppins, Arial" font-weight="400"> Dear <b style="color:#89c440">Learnapalooza</b> Attendee </mj-text>
+          <mj-text font-family="Poppins, Arial" font-weight="400"> We wanted to reach out <b>post-conference</b> and make sure that <b>as you look to select an LMS solution, that you book your 1-on-1 demo</b> with <span style="color:#00bdd4"><b>ProLearn</b> (a Learnapalooza Silver LMS sponsor!)</span> </mj-text>
+          <mj-text font-family="Poppins, Arial" font-weight="400"> Who is using ProLearn LMS to automate and scale their association online learning programs? </mj-text>
         </mj-column>
       </mj-section>
+      <mj-section padding="0">
+        <mj-column width="40%">
+          <mj-image href="#" target="_blank" src="img/img1.png" align="center"></mj-image>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400"> - 40,000 users (MD’s, DO’s, Nurses) </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="40%">
+          <mj-image href="#" target="_blank" src="img/img2.png" align="center"></mj-image>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400"> - 40,000 users (MD’s, DO’s, Nurses) </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="30px 0">
+        <mj-column>
+          <mj-text font-family="Poppins, Arial" font-weight="600" align="center" text-transform="uppercase" font-size="22px" color="#00bdd4">Other reasons to choose ProLearn: </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="img/cost_icon.png" width="85px" align="left"></mj-image>
+          <mj-text align="left" font-family="Poppins, Arial" font-weight="600" font-size="18px" color="#214b90">Cost </mj-text>
+          <mj-text align="left" font-family="Poppins, Arial" align="left" font-size="14px" line-height="20px" font-weight="600">We're 50% less than almost any other LMS at our level - and still better in terms of features. </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="img/live_icon.png" width="65px" align="left"></mj-image>
+          <mj-text font-family="Poppins, Arial" font-weight="600" align="left" font-size="18px" color="#214b90">Instantly Live </mj-text>
+          <mj-text align="left" font-family="Poppins, Arial" font-size="14px" line-height="20px" font-weight="600">With our drag and drop features, you can create a course in minutes and have it available for your learners instantly. Hosting a live event? With one click you can turn it into an on-demand course. </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="img/zoom_icon.png" width="65px" align="left"></mj-image>
+          <mj-text font-family="Poppins, Arial" font-weight="600" align="left" font-size="18px" color="#214b90">Zoom Integration</mj-text>
+          <mj-text align="left" font-family="Poppins, Arial" font-size="14px" line-height="20px" font-weight="600">Seamless integration with Zoom meeting/webinar. Host your conferences online and get special features for attendance tracking and more. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button width="100%" height="80px" background-color="#89c440" font-family="Poppins, Arial" font-weight="600" align="center" text-transform="uppercase" font-size="35px" color="#16394a" line-height="35px">Book your demo today! </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text padding-bottom="0" color="#999999" align="center" font-family="Poppins, Arial" font-size="14px" line-height="18px">PROLEARN, 329 Notingham Street, San Francisco, CA 94307 </mj-text>
+          <mj-text color="#999999" align="center" font-family="Poppins, Arial" font-size="13px" line-height="18px"> Don't want to receive anymore emails? <a href="#" style="text-decouration:none; color:#818181">Unsubscribe</a></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+      <mj-column>
+        <mj-social font-size="15px" border-radius="15px" icon-size="20px" mode="horizontal">
+          <mj-social-element name="facebook" href="#">
+          </mj-social-element>
+          <mj-social-element  name="twitter" href="#">
+          </mj-social-element>
+          <mj-social-element name="google" href="#">
+          </mj-social-element>
+           </mj-social-element>
+          <mj-social-element name="linkedin" href="#">
+          </mj-social-element>
+         <mj-social-element name="pinterest" href="#">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
