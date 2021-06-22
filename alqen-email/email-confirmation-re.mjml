@@ -1,0 +1,38 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+            <mj-hero mode="fluid-height" background-width="600px" background-height="400px"
+                     background-url="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/e642e393-1095-4820-a601-7a0543935f1d.png" background-color="#7C4FFF" padding="50px 0px 50px">
+                <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/539f4231-2e2d-4a4d-a292-4d4306e12b5d.png" width="45px" alt="logo" align="center"></mj-image>
+                <mj-text padding="20px 20px 15px" color="#ffffff" align="center" font-size="24px" line-height="31px"
+                         font-weight="700"> Hi, {firstname}!
+                </mj-text>
+                <mj-text color="#FCFCFF" align="center" padding="10px 40px 30px"> Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Diam imperdiet ante sit libero. Magna in habitant ipsum elementum eget.
+                </mj-text>
+                <mj-button mj-class="btn" padding="10px 10px 0px" align="center" background-color="#1B1031" href="#">
+                    Confirm Email
+                </mj-button>
+            </mj-hero>
+            <mj-section background-color="#FCFCFF" padding-top="50px" border-bottom="15px">
+                <mj-column background-color="#FCFCFF">
+                    <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/2bf2e55e-f0b3-4d89-a693-9c14b85ec9e6.png" align="center"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">What’s next?</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                    <mj-text font-weight="600" color="#4F4F4F">Another Title</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

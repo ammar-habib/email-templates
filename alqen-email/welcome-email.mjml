@@ -1,0 +1,38 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px">
+          <mj-hero css-class="IndexBanner Welcome" mode="fluid-height" background-width="600px"
+                     background-url="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/8aac8e97-9302-41dc-a285-a34afa0a996b.png" background-position="top center"  padding="0" background-color="#ffffff">
+                <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/539f4231-2e2d-4a4d-a292-4d4306e12b5d.png" width="45px" padding-top="50px" alt="logo" align="center"></mj-image>
+                <mj-text padding="20px 20px 15px" color="#ffffff" align="center" font-size="24px" line-height="31px"
+                         font-weight="700">Welcome to Alqen!
+                </mj-text>
+                <mj-text css-class="xsHide" color="#FCFCFF" align="center" padding="10px 40px 30px"> Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Diam imperdiet ante sit libero. Magna in habitant ipsum elementum eget.
+                </mj-text>
+                <mj-button  mj-class="btn" padding="10px 10px 0" align="center" background-color="#1B1031" href="#">
+                    Setup Account
+                </mj-button>
+            </mj-hero>
+          <mj-section background-color="#ffffff"  css-class="xsHide" padding="0 1px">
+                <mj-column padding="0">
+                     <mj-image padding="0" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/65d42be0-c954-4c59-843d-1314e26f7934.png"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">How can I setup my account?</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                    <mj-text font-weight="600" color="#4F4F4F">How do I add my marketplace?</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

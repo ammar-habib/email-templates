@@ -1,0 +1,50 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+            <mj-include path="includes/top-header.mjml"/>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Add Marketplace</mj-text>
+                    <mj-text font-size="14px" font-family="Inter" color="#6E7791"> Hi <span>{firstname},</span>
+                    </mj-text>
+                    <mj-text>
+                        Adding a market place is easy and simple. To get started, click the button below and follow the
+                        instructions given.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
+                <mj-column>
+                    <mj-button mj-class="btn" align="center" background-color="#7C4FFF" href="#">Add Marketplace
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/ed2873c5-efdd-44e1-89f6-e3754e8d0186.png"/>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Information</mj-text>
+                    <mj-text>
+                        Once your marketplace is added, we’ll start downloading your postings in minutes. This can take
+                        up to 15 minutes at a time, depending on the size of your account.
+                    </mj-text>
+                    <mj-text>
+                        If you have questions or concerns, don’t hesitate to contact us via our online customer support
+                        center.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="30px">
+                <mj-column>
+                    <mj-button mj-class="btn" align="center" background-color="#19BFAB" href="#">Contact Support
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

@@ -1,0 +1,964 @@
+<mjml>
+    <mj-head>
+        <mj-title>Vollnormal</mj-title>
+        <mj-attributes>
+            <mj-all font-family="Arial, serif" font-size="13px" line-height="18px"/>
+            <mj-class name="sectionHeading" padding="4px 0" color="#FFFFFF" font-size="16px" font-weight="bold"
+                      min-height="60px"/>
+            <mj-class name="hidden" visibility="hidden"/>
+        </mj-attributes>
+        <mj-style>
+            a {
+            color: #000;
+            text-decoration: none;
+            }
+            a:hover {
+            text-decoration: underline;
+            }
+            .show-xs{
+            display:none;
+            }
+            table td{
+            min-width: 40px;
+            word-break: break-word;
+            }
+            @media only screen and (max-width:480px){
+            td[align="right"], td[align="left"] {
+            text-align: center;
+            text-align: -webkit-center;
+            }
+            .xs-hide{
+            display:none !important;
+            }
+            .show-xs{
+            display:block;
+            }
+            .xs-drug-section{
+            width: 67% !important;
+            max-width: 67%;
+            padding: 20px 4px;
+            }
+            .xs-drug-img{
+            width: 31% !important;
+            max-width: 31%;
+            }
+            .xs-content-section{
+            width: 100% !important;
+            max-width: 100%;
+            }
+            .xs-content-img{
+            width: 30% !important;
+            max-width: 30%;
+            }
+
+            @media only screen and (max-width:410px){
+            .xs-drug-section{
+            width: 66% !important;
+            max-width: 66%;
+            }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="700px" mj-class="body">
+        <mj-wrapper background-color="#DBDDEB" border-left="5px solid #46495A" border-right="5px solid #46495A"
+                    padding-top="0" padding-bottom="0">
+            <mj-section padding="2px 10px" background-color="#152B52">
+                <mj-column padding="6px 0">
+                    <mj-button font-size="11px" align="left" padding="0" inner-padding="0"
+                               background-color="transparent" href="http://www.stefanquirmbach.de/">
+                        Zur www.stefanquirmbach.de Homepage
+                    </mj-button>
+                </mj-column>
+                <mj-column padding="6px 0">
+                    <mj-button font-size="11px" align="left" padding="0" inner-padding="0"
+                               background-color="transparent" href="mailto:info@stefanquirmbach.de">
+                        Mail an: info@stefanquirmbach.de
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-image padding="0" href="#" target="blank"
+                              src="http://www.stefanquirmbach.de/newsletter/2017/newsletter_2017_01.jpg">
+                    </mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column css-class="xs-hide" vertical-align="middle" width="30%">
+                    <mj-image padding="0 15px"
+                              src="https://www.stefanquirmbach.de/images/objects/background_7th_left.jpg" width="190px">
+                    </mj-image>
+                </mj-column>
+                <mj-column css-class="xs-drug-section" vertical-align="middle" width="39%">
+                    <mj-text line-height="14px" font-size="10px" padding="0"><em><strong>Golf ist wie eine Droge
+                        !</strong></em></mj-text>
+                    <mj-text line-height="14px" font-size="10px" padding="0">Wer sich einmal auf dieses Spiel
+                        eingelassen hat,
+                    </mj-text>
+                    <mj-text line-height="14px" font-size="10px" padding="0">kommt kaum noch davon los !</mj-text>
+                    <mj-text line-height="14px" font-size="10px" padding="0">Harry Valérien</mj-text>
+                </mj-column>
+                <mj-column css-class="xs-drug-img" vertical-align="top" width="31%">
+                    <mj-image align="right" padding="0"
+                              src="http://www.stefanquirmbach.de/newsletter/2017/newsletter_2017_02.jpg" width="210px">
+                    </mj-image>
+                    <mj-image css-class="show-xs" align="right" padding="0"
+                              src="https://www.stefanquirmbach.de/newsletter/2017/newsletter_2017_03.jpg" width="204px">
+                    </mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column css-class="xs-content-section" width="70%">
+                    <mj-text padding="18px 15px" container-background-color="#152B4E" font-size="24px" color="#ffffff">
+                        Inhalt
+                    </mj-text>
+                    <mj-text padding="10px 15px"><b>Stefan Quirmbach Golfschule, Gut Levershausen, 37154 Northeim, Tel:
+                        0551 7977891</b>
+                    </mj-text>
+                    <mj-text padding="10px 15px">
+                        <ul>
+                            <li>Kursprogramm August bis Oktober 2020 inkl. Aktionspreise in den Sommerferien</li>
+                            <li>Jugend Ecke</li>
+                            <li>Einmaliger Spezialkurs "Mehr Länge" mit 4 verschiedenen Experten</li>
+                            <li>Verabschiedung von Dominik Griess</li>
+                            <li>Einzelunterricht in Hardenberg</li>
+                            <li>Golfreisen Herbst / Winter / Frühjahr 2020 / 21</li>
+                            <li>Golf und Cruise Reisen mit der MS Europa und der Europa 2</li>
+                        </ul>
+                    </mj-text>
+                </mj-column>
+                <mj-column css-class="xs-hide" vertical-align="top" width="30%">
+                    <mj-image align="right" padding="0"
+                              src="https://www.stefanquirmbach.de/newsletter/2017/newsletter_2017_03.jpg" width="206px">
+                    </mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 15px"><em>Liebe Golffreunde,</em></mj-text>
+                    <mj-text padding="0 15px"><em>In Hardenberg steht die offene Golfwoche vor der Tür ( 04.-09. August)
+                        und auch die Clubmeisterschaften sind nicht mehr fern.
+                        Dann ist die Golfsaison auch schon fast wieder vorüber.</em></mj-text>
+                    <mj-text padding="0 15px"><em>Für die kühlere Jahreszeit haben wir einige interessante - überwiegend
+                        europäische - Reiseziele für Sie zusammen gestellt.</em></mj-text>
+                    <mj-text padding="0 15px 10px"><em>Wenn die reguläre Urlaubszeit vorüber ist, sind Hotels und
+                        Golfplätze im Süden nicht mehr so überfüllt - die ideale Reisezeit um bei deutlich wärmeren
+                        Temeraturen die Golfsaison noch etwas zu verlängern.</em></mj-text>
+                    <mj-text padding="0 15px"><em>Wir freuen uns auf Sie !</em></mj-text>
+                    <mj-text padding="0 15px 10px"><b><em>Herzlichst,</em></b></mj-text>
+
+                    <mj-text padding="0 15px"><b>Stefan und Katharina Quirmbach</b></mj-text>
+                    <mj-text padding="0 15px 15px"><b>und Ihr TrainerTeam der Stefan Quirmbach Golfschule,</b></mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Kursprogramm 2020</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 10px">Alle Kurse inkll. der Leistungsbeschreibungen finden Sie auf unserer
+                        Internetseite <a href="http://www.stefanquirmbach.de/"
+                                         target="_blank"><b>www.stefanquirmbach.de</b></a> in der <a
+                                href="http://www.stefanquirmbach.de/angebote/kurse/index.html" target="_blank"><b>Rubrik
+                            Angebote / Kurse.</b></a>Gern senden wir Ihnen den druckfrischen Kursflyer aber auch per
+                        Post zu.
+                    </mj-text>
+                    <mj-text padding="10px 10px 2px">Folgende Kurse bieten wir Ihnen von August bis Oktober an.
+                    </mj-text>
+                    <mj-text padding="2px 10px 10px" color="#FF0000">Rot markiert sind unsere Aktionspreise während der
+                        Ferien in Niedersachsen.
+                    </mj-text>
+                    <mj-table padding="0 10px 15px 10px">
+                        <tr style="text-align:left; padding: 4px 0;">
+                            <th style="padding: 0 8px 0 0;">Anfängerkurse</th>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Schnupperstunde(50 min)</td>
+                            <td style="padding: 0 8px;">16.08., 27.09., 25.10.</td>
+                            <td style="padding: 0 0 0 8px;">kostenfrei</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Einsteigerkurs(225 min)</td>
+                            <td style="padding: 0 8px;"> 30.08.,13.09., 11.10.</td>
+                            <td style="padding: 0 0 0 8px;">69,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">DGV Platzreife in vier Tagen (1675 min)</td>
+                            <td style="padding: 0 8px;">17.-20.09., 01.-04.10.,15.-18.10.</td>
+                            <td style="padding: 0 0 0 8px;">399,00 / 369,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Kinder Platzreifekurs bis 14 Jahre</td>
+                            <td style="padding: 0 8px;">15.-18.10.</td>
+                            <td style="padding: 0 0 0 8px;">199,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Theoriekurs ( 150 min)</td>
+                            <td style="padding: 0 8px;">21.08.,18.09., 02.10., 16.10.</td>
+                            <td style="padding: 0 0 0 8px;">49,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Platzerlaubnisprüfung ( 175 min)</td>
+                            <td style="padding: 0 8px;">23.08.,20.09., 04.10., 18.10.</td>
+                            <td style="padding: 0 0 0 8px;">49,00</td>
+                        </tr>
+                        <tr style="text-align:left; padding: 4px 0;">
+                            <th colspan="3" style="padding: 15px 8px 0 0;">Fortgeschrittenen Kurse</th>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Aufbaukurs
+                                <small>"Fresh up"</small>
+                            </td>
+                            <td style="padding: 0 8px;">Termin auf Anfrage</td>
+                            <td style="padding: 0 0 0 8px;">279,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;line-height: normal;">Eisen und Hölzer<br/>
+                                <small>Kombi mit Rund ums Grün möglich</small>
+                            </td>
+                            <td style="padding: 0 8px;line-height: normal;"><span style="color:#FF0000">08./09.08., 22./23.08.</span><br/>08./09.08.,
+                                22./23.08.
+                            </td>
+                            <td style="padding: 0 0 0 8px;line-height: normal;">139,00 / <span style="color:#FF0000">129,00</span><br/>
+                                <small>Kombi:</small>
+                                249,00 / 229.00
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;line-height: normal;">Rund ums Grün<br/>
+                                <small>Kombi mit Eisen und Hölzern möglich</small>
+                            </td>
+                            <td style="padding: 0 8px;line-height: normal;"><span style="color:#FF0000">08./09.08., 22./23.08.</span><br/>08./09.08.,
+                                22./23.08.
+                            </td>
+                            <td style="padding: 0 0 0 8px;line-height: normal;">139,00 / <span style="color:#FF0000">129,00</span><br/>
+                                <small>Kombi:</small>
+                                249,00 / 229.00
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Runter mit dem Handicap</td>
+                            <td style="padding: 0 8px;line-height: normal;"><span
+                                    style="color:#FF0000">17.-19.08.</span>, 31.08.-02.09.<br/>21.-23.09., 05.-07.10
+                            </td>
+                            <td style="padding: 0 0 0 8px;">349,00 / 319,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Flight Scope Kurs</td>
+                            <td style="padding: 0 8px;">Termine auf Anfrage</td>
+                            <td style="padding: 0 0 0 8px;">79,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Rent a Pro Tageskurs ( 400 min)</td>
+                            <td style="padding: 0 8px;">auf Anfrage.</td>
+                            <td style="padding: 0 0 0 8px;">ab € 200,00 pP
+                                <small>bei 3 Personen</small>
+                            </td>
+                        </tr>
+                        <tr style="text-align:left; padding: 4px 0;">
+                            <th colspan="3" style="padding: 15px 8px 0 0;">Stefan Quirmbach Spezialkurse</th>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Stefan Quirmbach All Inklusive (450 min)</td>
+                            <td style="padding: 0 8px;"><span style="color:#FF0000">31.07./01.08.,</span> 02./03.09.,
+                                28./29.10.,<br/>oder auf Anfrage
+                            </td>
+                            <td style="padding: 0 0 0 8px;">450,00
+                                <small>bei 3-5 Pers. / 395,00</small>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;line-height: normal;">Ladies Only Intensivkurs
+                                <small>(400 min)</small>
+                            </td>
+                            <td style="padding: 0 8px;">10./11.09.</td>
+                            <td style="padding: 0 0 0 8px;">395,00</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;line-height: normal;">Schmerzfrei Besser Golfen</td>
+                            <td style="padding: 0 8px;line-height: normal;">Termine nach Absprache</td>
+                            <td style="padding: 0 0 0 8px;line-height: normal;">ab 450,00
+                                <small>bei 2 Personen</small>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Rent a Pro (Stefan Quirmbach)
+                                <small>( 400 min)</small>
+                            </td>
+                            <td style="padding: 0 8px;line-height: normal;">Termine auf Anfrage</td>
+                            <td style="padding: 0 0 0 8px;">ab 500,00
+                                <small>bei 2 Personen</small>
+                            </td>
+                        </tr>
+                        <tr style="text-align:left; padding: 4px 0;">
+                            <th colspan="3" style="padding: 15px 8px 0 0;">Mental Training</th>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding: 0 8px 0 0;">Einzelstunden Max von Düring auf Anfrage</td>
+                            <td style="padding: 0 0 0 8px;">ab 80,00 / TE</td>
+                        </tr>
+                    </mj-table>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Jugend- Ecke</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text align="center" padding="10px 10px">Am Samstag, den <b>29</b>.August findet unser
+                        diesjähriger <b>Generationen-Cup</b> statt,<br/>als 2er Scramble über 18 Loch
+                    </mj-text>
+                    <mj-text align="center" padding="10px 10px">Gemeldet werden können Teams,<b>die eine Generation
+                        trennen (mind. 20 Jahre)</b><br/>.Also schnappt euch Mama, Papa, Oma oder Opa und meldet euch
+                        an.
+                    </mj-text>
+                    <mj-text align="center" padding="10px 10px 20px">Anmelden könnt ihr euch über das AWS System oder
+                        aber per Rück eMail an uns.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">
+                        Einmaliger Spezialkurs mit vier verschiedenen Top- Experten für MEHR LÄNGE !
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 10px 0"><b>4 Experten in einem Kurs zum Thema LÄNGE!</b></mj-text>
+                    <mj-text padding="0 10px">Es sind noch zwei Wochen bis zur Clubmeisterschaft und Sie brauchen noch
+                        ein paar Meter?
+                    </mj-text>
+                    <mj-text padding="0 10px">Vom <b>22. - 23. August 2020</b> findet bei uns ein <b>besonderer Kurs</b>
+                        statt, bei dem es vor allem um mehr <b>LÄNGE geht.</b></mj-text>
+                    <mj-text padding="0 10px 15px">Vier ausgewiesene Experten sind erstmals in diesem Kurs zusammen:
+                    </mj-text>
+                    <mj-text padding="0 10px"><b>Robin Horvath: </b>LONG DRIVE CHAMPION of GERMANY und
+                        Sportwissenschaftler
+                    </mj-text>
+                    <mj-text padding="0 10px"><b>Axel - André Richter: </b>Physiotherapeut und Erfinder der EVO SWING
+                        Methode für mehr Beweglichkeit
+                    </mj-text>
+                    <mj-text padding="0 10px"><b>Andrew Greig: </b>PGA Pro und Experte in dem Thema BODEN
+                        REAKTIONSKRÄFTE
+                    </mj-text>
+                    <mj-text padding="0 10px"><b>Stefan Quirmbach. </b>Experte in biomechanischer SCHWUNGOPTIMIERUNG und
+                        PGA Health Pro
+                    </mj-text>
+                    <mj-text padding="0 10px">Preis: 575,- € pP</mj-text>
+                    <mj-text padding="0 10px">(Mitglieder des GC Hardenberg 525,- € pP)</mj-text>
+                    <mj-text padding="0 10px">Mindestens 10 , maximal 16 Teilnehmer.</mj-text>
+                    <mj-text padding="0 10px">Teilnahme ist möglich für <b>Golferinnen</b> und <b>Golfer</b> mit einer
+                        <b>Mindestvorgabe</b> von 28.
+                    </mj-text>
+                    <mj-text padding="0 10px"><b>Leistungen:</b></mj-text>
+                    <mj-text padding="0 10px">An 2 Tagen täglicher Unterricht in kleinen Gruppen mit den Experten von
+                        10.00 bis 17.00 Uhr
+                    </mj-text>
+                    <mj-text padding="0 10px">Rangebälle während des Unterrichts , Rangefee</mj-text>
+                    <mj-text padding="0 10px">Unterlagen und Untersuchungsergebnisse</mj-text>
+                    <mj-text padding="0 10px 20px">Das genaue Programm erfragen Sie bitte per Mail .</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">
+                        Verabschiedung Dominik Griess
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 10px 0">Schweren Herzens müssen wir uns zum Ende dieser Saison von unserem
+                        Sunny Boy Dominik Griess verabschieden.
+                    </mj-text>
+                    <mj-text padding="0 10px 15px">Dominik hat bei uns von 2016 bis 2018 seine Ausbildung absolviert und
+                        ist seit Ende 2018 - mitlerweile natürlich als PGA Professional - ein wertvoller Bestandteil
+                        unseres Teams.
+                    </mj-text>
+                    <mj-text padding="0 10px 15px">Dominik hat sich entschlossen, im Herbst sein Medizinstudium
+                        anzufangen und wird uns daher Ende Oktober verlassen. Dieser Schritt war von Anfang an in
+                        Planung, so dass wir sehr froh sind, dass wir ihn immerhin fünf Jahre bei uns haben durften.
+                    </mj-text>
+                    <mj-text padding="10px 10px 0"><b>Dominik Griess:</b></mj-text>
+                    <mj-text padding="0 10px 15px"><i>"Vielen lieben Dank an alle Schülerinnen und Schüler, es war eine
+                        große Freude mit euch trainieren zu dürfen. Ich bin sehr froh die letzten fünf Jahre bei der
+                        Golfschule arbeiten zu dürfen und tolle Momente erleben zu können. Danke an die aktuellen sowie
+                        vergangenen Kollegen für super Input, lehrreiches Hospitieren, nette Abende und wahnsinnige
+                        Golfrunden. "</i></mj-text>
+                    <mj-text align="center" padding="0 10px">Wir wünschen Dominik für seinen weiteren Berufs- und
+                        Lebensweg alles erdenklich Gute und sind uns sehr scher, dass sich unsere Wege auch zukünftig
+                        häufig kreuzen werden.
+                    </mj-text>
+                    <mj-image padding="0 0 20px"
+                              src="https://www.stefanquirmbach.de/images/objects/griess_dominik_2018.jpg"
+                              width="300px"/>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">
+                        Einzelunterricht in Hardenberg
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 10px 0">Buchen können Sie Einzelunterricht bei Ihrem Pro weiterhin über <a
+                            href="http://www.meandmypro.de/" target="_blank" style="color:#000; text-decoration: none;"><b>www.meandmypro.de</b></a>
+                    </mj-text>
+                    <mj-text padding="0 10px 15px">oder Sie rufen uns zur Terminabsprache an. Tel: 0551 7977891
+                    </mj-text>
+                    <mj-table padding="0 10px 15px 10px">
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Unterrichtsentgelte pro 50minütige Einheit</td>
+                            <td style="padding: 0 8px;">Mitglieder</td>
+                            <td style="padding: 0 8px;">Gäste</td>
+                            <td style="padding: 0 0 0 8px;"> 11=10 Paket *</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;"></td>
+                            <td style="padding: 0 8px;">€</td>
+                            <td style="padding: 0 8px;">€</td>
+                            <td style="padding: 0 0 0 8px;"></td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Stefan Quirmbach
+                                <small> (inkl. Rangebälle)</small>
+                            </td>
+                            <td style="padding: 0 8px;">120,00</td>
+                            <td style="padding: 0 8px;">150,00</td>
+                            <td style="padding: 0 0 0 8px;">1.200,-/1.500.-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Carsten Lebbe
+                                <small>(Golfbälle nach Verbrauch)</small>
+                            </td>
+                            <td style="padding: 0 8px;">55,00</td>
+                            <td style="padding: 0 8px;">60,00</td>
+                            <td style="padding: 0 0 0 8px;"> 550,- / 600,-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Patrick J. Gosse
+                                <small>(Golfbälle nach Verbrauch)</small>
+                            </td>
+                            <td style="padding: 0 8px;">55,00</td>
+                            <td style="padding: 0 8px;">60,00</td>
+                            <td style="padding: 0 0 0 8px;"> 550,- / 600,-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Dominik Grieß
+                                <small>(Golfbälle nach Verbrauch)</small>
+                            </td>
+                            <td style="padding: 0 8px;">50,00</td>
+                            <td style="padding: 0 8px;">55,00</td>
+                            <td style="padding: 0 0 0 8px;"> 500,- / 550,-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Aline Heurich
+                                <small>(Auszubildende im 2. Lehrjahr),(Golfbälle nach Verbrauch)</small>
+                            </td>
+                            <td style="padding: 0 8px;">25,00</td>
+                            <td style="padding: 0 8px;">30,00</td>
+                            <td style="padding: 0 0 0 8px;"> 250,- / 300,-</td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 0 8px 0 0;">Maximilian von Düring - Mentaltrainer</td>
+                            <td style="padding: 0 8px;">80,00</td>
+                            <td style="padding: 0 8px;">95,00</td>
+                        </tr>
+                    </mj-table>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">
+                        Golftrainings- und Spielreisen 2020 /2021
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text padding="10px 10px 0">Langsam ist auch das Reisen innerhalb Europas wieder möglich. Wir
+                        haben unsere Planung für die Herbst-Wintersaison jetzt fertig gestellt und die verschiedensten
+                        Reiseziele optioniert.
+                        1
+                    </mj-text>
+                    <mj-text padding="10px 10px 15px"><b>Wenn Sie zum jetzigen Zeitpunkt eine Reise mit uns planen
+                        möchten, gehen Sie kein Risiko ein ! </b> Wir merken Ihre Anmeldung zunächst nur unverbindlich
+                        vor und kommen auf Sie zu, sobald die Mindestteilnehmerzahl erreicht und wir die Reisen unter
+                        den aktuellen Hygiene-und Sicherheitsbestimmungen gut bestätigen können. Erst dann müssen Sie
+                        sich final entscheiden.
+                        1
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left" href="#" target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/penina_2017_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a href="#" target="_blank"><b>09.-13. 08.2020 ( 4 Tage)</b></a>
+                    </mj-text>
+                    <mj-text padding="0 10px"><a href="#" target="_blank"><b>Kurzreise in das Hardenberg Golfresort</b></a>
+                    </mj-text>
+                    <mj-text padding="0 10px 15px"><a href="#" target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">aktuell 2 Restplätze verfügbar</mj-text>
+                    <mj-text padding="0px 10px 15px">Die Ausschreibung senden wir Ihnen auf Wunsch sehr gern zu
+                    </mj-text>
+                </mj-column>
+
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/penina_2020.html" target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/penina_2017_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/penina_2020.html"
+                            target="_blank"><b>19.-26.09.2020 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/penina_2020.html"
+                            target="_blank"><b>Saison-Abschlussreise nach Portugal</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/penina_2020.html"
+                            target="_blank"><b>in das Penina Hotel & Golf Resort *****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/penina_2020.html"
+                            target="_blank"><b>imit Stefan Quirmbach und Carsten Lebbe</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">Meldeschluss <span>30.08.2020</span></mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/portugal_2020.html"
+                              target="_blank" src="https://www.stefanquirmbach.de/images/objects/portugal_2020_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/portugal_2020.html"
+                            target="_blank"><b>26.09.-03.10.2020 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/portugal_2020.html"
+                            target="_blank"><b>Trainings- und Spielreise nach Portugal</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/portugal_2020.html"
+                            target="_blank"><b>in das Evoluteee Royal Óbidos Spa & Golf Resort *****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/portugal_2020.html"
+                            target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">Meldeschluss <span>30.08.2020</span></mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/elba_estepona_2020.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/valderrama_2020_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/elba_estepona_2020.html"
+                            target="_blank"><b> 17. - 24.10.2020 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/elba_estepona_2020.html"
+                            target="_blank"><b>Golfreise nach Marbella</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/elba_estepona_2020.html"
+                            target="_blank"><b>in das Elba Estepona Gran Hotel *****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/elba_estepona_2020.html"
+                            target="_blank"><b>mit Stefan Quirmbach und Dominik Griess</b></a></mj-text>
+                    <mj-text padding="0 10px 8px">
+                        <small>Spielen Sie mit Valderama, Sotogrande, La Reserva, Finca Cortesin usw. die Top Plätze der
+                            Region !
+                        </small>
+                    </mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">Meldeschluss <span>10.09.2020</span></mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/costa_navarino_2020.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/navarino03.jpg" width="248px"
+                              height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/costa_navarino_2020.html"
+                            target="_blank"><b>30.10. - 06.11.2020</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/costa_navarino_2020.html"
+                            target="_blank"><b>Trainings- und Spielreise nach Griechenland</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/costa_navarino_2020.html"
+                            target="_blank"><b>Westin Costa Navarino*****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/costa_navarino_2020.html"
+                            target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">Meldeschluss <span>31.08.2020</span></mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html" target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/aphrodite_hills_2020_05.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html"
+                            target="_blank"><b>20.11. - 27.11.2020 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html"
+                            target="_blank"><b>Trainings- und Spielreise nach Zypern</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html"
+                            target="_blank"><b>in das Aphrodite Hills Golfresort*****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html"
+                            target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">Meldeschluss <span>31.08.2020</span></mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/suedafrika_2020.html"
+                              target="_blank" src="https://www.stefanquirmbach.de/images/objects/silvester_2020_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/suedafrika_2020.html"
+                            target="_blank"><b>28.12.2020 - 07.01.2021 <span>(11 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/suedafrika_2020.html"
+                            target="_blank"><b>Golfreise nach Südafrika (Gardenroute)</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/suedafrika_2020.html"
+                            target="_blank"><b>mit Stefan und Katharina Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/dubai_2021.html" target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/dubai_2021_01.jpg" width="248px"
+                              height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/dubai_2021.html"
+                            target="_blank"><b>15.01. - 22.01.2021 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/zypern_2020.html"
+                            target="_blank"><b>Trainings- und Spielreise nach Dubai</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/dubai_2021.html"
+                            target="_blank"><b>in das Park Hyatt*****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/dubai_2021.html"
+                            target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/abu_dhabi_westin_2021.html"
+                              target="_blank" src="https://www.stefanquirmbach.de/images/objects/abu_dhabi_2021_06.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/abu_dhabi_westin_2021.html"
+                            target="_blank"><b>22.01. - 29.01.2021 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/abu_dhabi_westin_2021.html"
+                            target="_blank"><b>Trainings- und Spielreise mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/abu_dhabi_westin_2021.html"
+                            target="_blank"><b>in das The Westin Abu Dhabi Golf Resort & Spa *****</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mallorca_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mallorca_2020_05.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mallorca_2021.html"
+                            target="_blank"><b>01.03. - 08.03.2021 <span>(8 Tage)</span></b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mallorca_2021.html"
+                            target="_blank"><b>Trainings- und Spielreise nach Mallorca</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mallorca_2021.html"
+                            target="_blank"><b>in das Arabella Sheraton Hotel</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mallorca_2021.html"
+                            target="_blank"><b>mit Stefan Quirmbach</b></a></mj-text>
+                    <mj-text padding="0px 10px 15px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/pine_cliffs_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/pine_cliffs_2019_02.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/pine_cliffs_2021.html"
+                            target="_blank"><b>13.03. - 20.03.2021 und 20.03. - 27.03.2021</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/pine_cliffs_2021.html"
+                            target="_blank"><b>Saisonvorbereitungsreise nach Portugal</b></a></mj-text>
+                    <mj-text padding="0 10px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/pine_cliffs_2021.html"
+                            target="_blank"><b>in das Pine Cliffs Golfresort *****</b></a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/pine_cliffs_2021.html"
+                            target="_blank">mit Stefan Quirmbach und seinem Team </a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">Wahlweise</mj-text>
+                    <mj-text padding="0px 10px 15px">mit Aufbaukurs für Spieler mit HCP 37-54</mj-text>
+                    <mj-text padding="0px 10px">oder als Trainings-und Spielreise für Spieler mit HCP 0-36
+                    </mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover" background-color="#152B50">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">
+                        Golf -und Cruise Reisen mit Stefan Quirmbach auf der MS Europa und der MS Europa II
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="15px 0 0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_singapur-hongkong_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mseuropa_hongkong-singapur_2021_01.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_singapur-hongkong_2021.html"
+                            target="_blank"><b>06.02. - 20.02.2021 (14 Tage) </b>EUX2103</a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_singapur-hongkong_2021.html"
+                            target="_blank"><b>Golf & Cruise auf der MS Europa 2 mit Stefan Quirmbach von Hongkong nach
+                        Singapur
+                    </b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_lissabon-hamburg_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mseuropa_lissabon-hamburg_2021_04.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_lissabon-hamburg_2021.html"
+                            target="_blank"><b>31.05. - 16.06.2021 (16 Tage)</b> EUX2103</a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_lissabon-hamburg_2021.html"
+                            target="_blank"><b>Golf & Cruise auf der MS Europa mit Stefan Quirmbach von Lissabon nach
+                        Hamburg</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-montecarlo_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mseuropa_mallorca-montecarlo_2021_04.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-montecarlo_2021.html"
+                            target="_blank"><b>16.08.2021 - 24.08.2021 (8 Tage)</b> EUX2103</a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-montecarlo_2021.html"
+                            target="_blank"><b>Golf & Cruise auf der MS Europa 2 mit Stefan Quirmbach von Mallorca nach
+                        Monte Carlo</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-mallorca_2021.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mallorca-mallorca_2021_00.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-mallorca_2021.html"
+                            target="_blank"><b>15.10. - 28.10.2021 (13 Tage)</b> EUX2103</a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-mallorca_2021.html"
+                            target="_blank"><b>Golf & Cruise auf der MS Europa mit
+                        Stefan Quirmbach von Mallorca nach Mallorca</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0px 0px 10px">
+                    <mj-image padding="0 10px" align="left"
+                              href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-rom_2022.html"
+                              target="_blank"
+                              src="https://www.stefanquirmbach.de/images/objects/angebote/mallorca-rom_2022_02.jpg"
+                              width="248px" height="155px"/>
+                </mj-column>
+                <mj-column padding="0px 0px 10px">
+                    <mj-text padding="0px 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-rom_2022.html"
+                            target="_blank"><b> 12.08. - 21.08.2022 (9 Tage)</b> EUX2103</a></mj-text>
+                    <mj-text padding="0 10px 15px"><a
+                            href="https://www.stefanquirmbach.de/angebote/golfreisen/mseuropa_mallorca-rom_2022.html"
+                            target="_blank"><b>Golf & Cruise auf der MS Europa 2 mit
+                        Stefan Quirmbach von Mallorca nach Rom</b></a></mj-text>
+                    <mj-text padding="0px 10px" color="#008000">- buchbar -</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column>
+                    <mj-text padding="10px 10px 15px">
+                        Selbstverständlich können Sie auch alle Reisen ohne Golfprogramm auf der MS Europa und der
+                        Europa 2 bei uns buchen.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="2px 10px"
+                        background-url="http://www.stefanquirmbach.de/newsletter/images/gradient.gif"
+                        background-repeat="no-repeat" background-size="cover" background-color="#152B50">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading"></mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-text align="center" padding="10px 0 0">Rufen Sie uns an - wir beraten Sie gern. Tel: 0551
+                        7977891
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-image padding-top="0" align="right"
+                              href="http://www.facebook.com/pages/Golfschule-Stefan-Quirmbach/119658574772928"
+                              target="_blank" src="https://www.stefanquirmbach.de/newsletter/2015/newsle5.JPG"
+                              width="129px" height="39px"/>
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image padding-top="0" align="left" href="https://web.facebook.com/SQ.Golfschule/"
+                              target="_blank" src="http://www.stefanquirmbach.de/newsletter/2015/newsle6.JPG"
+                              width="129px" height="39px"/>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0">
+                <mj-column padding="0">
+                    <mj-divider padding="4px 15px" border-width="1px" border-style="solid" border-color="#000000"/>
+                    <mj-text padding="0px 15px 15px">Falls Sie den Newsletter abbestellen möchten,<a
+                            href="http://www.stefanquirmbach.de/service/newsletter.html?mathias.roetger@gmail.com"
+                            target="_blank"><b>klicken Sie bitte hier.</b></a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0 4px" background-color="#152B52">
+                <mj-column padding="4px 0 4px 10px">
+                    <mj-button font-size="11px" align="left" padding="0" inner-padding="0"
+                               background-color="transparent" href="http://www.stefanquirmbach.de/">
+                        Zur www.stefanquirmbach.de Homepage
+                    </mj-button>
+                </mj-column>
+                <mj-column padding="4px 0 4px 10px">
+                    <mj-button font-size="11px" align="left" padding="0" inner-padding="0"
+                               background-color="transparent" href="mailto:info@stefanquirmbach.de">
+                        Mail an: info@stefanquirmbach.de
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+        <mj-section padding="10px 15px 0">
+            <mj-column padding="0">
+                <mj-image align="center" src="http://www.stefanquirmbach.de/images/logos/pgapremium.gif" width="97px"
+                          height="104px"/>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="10px 15px">
+            <mj-column padding="0">
+                <mj-text font-size="10px" color="#888888" align="center" padding="0px">Stefan Quirmbach Golfschule,
+                    Planckstraße 21, D-37073 Göttingen, Telefon (05 51) 7 97 78 91, Telefax (05 51) 7 97 78 93, <a
+                            href="mailto:info@stefanquirmbach.de">info@stefanquirmbach.de </a>
+                </mj-text>
+                <mj-text font-size="10px" color="#888888" align="center" padding="0px">Steuernummer: 20/134/06066,
+                    Ust-ID Nr. DE 163210385
+                </mj-text>
+                <mj-text font-size="10px" color="#888888" align="center" padding="0px">Inhaber & Leiter der Golfschule:
+                    Stefan Quirmbach, verantwortlich für den Inhalt: Katharina Quirmbach, Anschrift & Kontaktmöglichkeit
+                    wie oben
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

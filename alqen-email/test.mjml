@@ -1,0 +1,208 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+            <mj-hero mode="fluid-height" background-width="600px" background-height="750px"
+                     background-url="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/2122ac8d-70c5-4475-ab11-87aad584c83d.png" padding="50px 0px 170px">
+                <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/539f4231-2e2d-4a4d-a292-4d4306e12b5d.png" width="45px" alt="logo" align="center"></mj-image>
+                <mj-text padding="20px 20px 15px" color="#ffffff" align="center" font-size="24px" line-height="31px"
+                         font-weight="700"> Order Successful
+                </mj-text>
+                <mj-text color="#FCFCFF" align="center" padding="10px 40px 30px"> Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Diam imperdiet ante sit libero. Magna in habitant ipsum elementum eget.
+                </mj-text>
+            </mj-hero>
+            <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">Order Summary</mj-text>
+                    <mj-text> Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+                <mj-column>
+                  <mj-raw>
+                    destkop table
+                  </mj-raw>
+                  <mj-table border="1px solid #19BFAB" font-size="13px" line-height="20px" color="#15655B"
+                              css-class="tableCss xsHide">
+                        <tr>
+                            <td rowspan="3"
+                                style="padding:15px 15px 15px 20px; border-right:1px solid #19BFAB; border-bottom-left-radius: 15px; border-top-left-radius: 15px; word-break: normal;">
+                                <div style="
+                                        display: inline-block;
+                                        background: rgba(25, 191, 171, 0.15);
+                                        font-weight: bold;
+                                        font-size: 12px;
+                                        line-height: 15px;
+                                        color: #19BFAB;
+                                        padding: 4px;
+                                        border-radius: 4px;
+                                        margin-bottom: 20px;
+                                    ">10 Users
+                                </div>
+                                <div style="
+                                        font-size: 17px;
+                                        color: #2A3D7A;
+                                        font-weight: bold;
+                                        margin-bottom: 6px;
+                                    ">Team Plan Title
+                                </div>
+                                <div style="
+                                      font-size: 14px;
+                                      color: #6E7791;
+                                  ">$9.00 per user / monthly
+                                </div>
+                            </td>
+                            <td style="padding:10px 15px 0; background: #DDF6F3; word-break: normal; ">Subtotal</td>
+                            <td style="padding: 10px 0 0 15px; background: #DDF6F3; border-top-right-radius: 15px; word-break: normal;">
+                                $1,923.00 USD
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding:0 15px 10px;background: #DDF6F3; border-bottom:0.3px solid #19BFAB; word-break: normal;">VAT
+                                (20%)
+                            </td>
+                            <td style="padding: 0 10px 0 15px;background:#DDF6F3; border-bottom:0.3px solid #19BFAB; word-break: normal;">
+                                $323.00 USD
+                            </td>
+                        </tr>
+                        <tr style="">
+                            <td style="padding:10px 15px; font-weight: bold; background: #DDF6F3;">Total</td>
+                            <td style="padding:10px 0 0 15px; font-weight: bold;background: #DDF6F3; border-bottom-right-radius: 15px;">
+                                $2,200.00
+                            </td>
+                        </tr>
+                    </mj-table>
+                   <mj-raw>
+                   mobile view table
+                  </mj-raw>  
+                  <mj-table border="1px solid #19BFAB" font-size="13px" line-height="20px" color="#15655B"
+                              css-class="tableCss hideDesktop">
+                        <tr>
+                            <td colspan="2"
+                                style="padding:15px 15px 15px 20px; border-bottom-left-radius: 15px; border-top-left-radius: 15px; word-break: normal;">
+                                <div style="
+                                        display: inline-block;
+                                        background: rgba(25, 191, 171, 0.15);
+                                        font-weight: bold;
+                                        font-size: 12px;
+                                        line-height: 15px;
+                                        color: #19BFAB;
+                                        padding: 4px;
+                                        border-radius: 4px;
+                                        margin-bottom: 20px;
+                                    ">10 Users
+                                </div>
+                                <div style="
+                                        font-size: 17px;
+                                        color: #2A3D7A;
+                                        font-weight: bold;
+                                        margin-bottom: 6px;
+                                    ">Team Plan Title
+                                </div>
+                                <div style="
+                                      font-size: 14px;
+                                      color: #6E7791;
+                                  ">$9.00 per user / monthly
+                                </div>
+                            </td>
+                        </tr>
+                    <tr>
+                    <td style="border-top: 1px solid #19BFAB; padding:20px 20px 10px; background: #DDF6F3; word-break: normal; ">Subtotal</td>
+                            <td style="border-top: 1px solid #19BFAB; padding:20px 20px 10px; background: #DDF6F3; word-break: normal; text-align: right;">
+                                $1,923.00 USD
+                            </td>
+                    </tr>
+                        <tr>
+                            <td style="padding:0 20px 10px;background: #DDF6F3;  word-break: normal;">VAT
+                                (20%)
+                            </td>
+                            <td style="padding: 0 20px 10px;background:#DDF6F3; word-break: normal; text-align: right;">
+                                $323.00 USD
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding:10px 20px 15px; font-weight: bold; background: #DDF6F3; border-bottom-left-radius: 15px;">Total</td>
+                            <td style="padding:10px 20px 15px; font-weight: bold;background: #DDF6F3; border-bottom-right-radius: 15px; text-align: right;">
+                                $2,200.00
+                            </td>
+                        </tr>
+                    </mj-table>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="fieldsSection" background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text css-class="BrFont" padding="10px 0 0 10px" color="#4F4F4F"
+                             font-weight="600"> IP Address
+                    </mj-text>
+                    <mj-button padding="10px 10px 10px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               font-size="14px" line-height="15px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> 102.78.128.82
+                    </mj-button>
+                </mj-column>
+                <mj-column>
+                    <mj-text css-class="BrFont" padding="10px 10px 0px 10px" color="#4F4F4F" font-weight="600">Location
+                        <a href="#"><img style="position: relative;top: 1px;left: 3px;" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/6539f27a-db61-4aed-b12b-3afbdde6714b.png"/></a>
+                    </mj-text>
+                    <mj-button padding="10px 10px 10px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               line-height="15px" font-size="14px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> Lakeland, New York
+                    </mj-button>
+                </mj-column>
+                <mj-column>
+                    <mj-text css-class="BrFont" padding="10px 10px 0px 10px" color="#4F4F4F" font-weight="600">Order
+                        ID
+                    </mj-text>
+                    <mj-button padding="10px 10px 0px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               line-height="15px" font-size="14px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> 0000000000000001
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="fieldsSection" background-color="#ffffff">
+                <mj-column width="30%">
+                    <mj-text padding="10px 10px 10px 15px" css-class="BrFont" padding-bottom="0" color="#4F4F4F"
+                             font-weight="600"> Payment Method
+                    </mj-text>
+                    <mj-button padding="10px 10px 10px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               font-size="14px" line-height="15px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> Credit Card
+                    </mj-button>
+                </mj-column>
+                <mj-column width="25%">
+                    <mj-text css-class="BrFont" padding="10px 10px 0px 10px" color="#4F4F4F" font-weight="600">Card
+                        Information
+                    </mj-text>
+                    <mj-button padding="10px 10px 10px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               line-height="15px" font-size="14px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> Visa Card
+                    </mj-button>
+                </mj-column>
+                <mj-column width="45%">
+                    <mj-text css-class="BrFont" padding="10px 10px 0px 10px" color="#4F4F4F" font-weight="600">Card
+                        Number
+                    </mj-text>
+                    <mj-button padding="10px 10px 0px 10px" color="#6E7791" align="left" inner-padding="10px 14px"
+                               line-height="15px" font-size="14px" background-color="rgba(223, 229, 245, 0.15)"
+                               border-radius="4px"> XXXX - XXXX - XXXX - 9283
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="0" padding-bottom="50px">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">Billing Address</mj-text>
+                    <mj-text> Delight Confection, 123 Billing Street, Billtown, Kentucky K2POBO, United States</mj-text>
+                    <mj-button mj-class="btn" padding="30px 25px" align="center" background-color="#1B1031" href="#">
+                        Download Receipt
+                    </mj-button>
+                    <mj-text> Sit sed malesuada risus sollicitudin. Ultrices consectetur et mollis eget ac tristique
+                        posuere. Adipiscing semper laoreet auctor.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

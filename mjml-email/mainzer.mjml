@@ -1,0 +1,302 @@
+<mjml>
+    <mj-head>
+        <mj-title>Mainzer</mj-title>
+        <mj-attributes>
+            <mj-all font-family="proxima, serif" font-size="13px" line-height="18px"/>
+            <mj-font name="proxima" href="assets/fonts/Proxima_Nova_Regular.otf"/>
+            <mj-font name="proxima" href="assets/fonts/Proxima_Nova_Bold.otf"/>
+            <mj-font name="proxima" href="assets/fonts/Proxima_Nova_Black.otf"/>
+        </mj-attributes>
+        <mj-style>
+            a {
+            color: #000;
+            text-decoration: none;
+            }
+            a:hover {
+            text-decoration: underline;
+            }
+            .welcome{
+            background: url(assets/img/dreieck_gruen.png) 110% 23% no-repeat, url(assets/img/dreieck_orange.png) -8%
+            center no-repeat;
+            background-size: 100px;
+            padding:35px 80px 0;
+            }
+            .welcome-content{
+            padding:0 40px 0;
+            }
+            .projectColum{
+            position: relative;
+            }
+            .section{
+            padding:0 50px 0;
+            }
+            .bannerSection{
+            margin:-40px auto 0 !important;
+            }
+            .banner{
+            padding:50px 50px 0px 50px !important;
+            }
+            .projectSection{
+            padding:40px 25px 0 !important;
+            }
+            .projectSection > div > table{
+            background : none !important;
+            }
+            .heading div, .subheading div{
+            line-height: normal !important;
+            }
+            .footer{
+            margin:-50px auto 0 !important
+            }
+            @media only screen and (max-width:480px){
+            .bannerSection {
+            margin: 0px auto 0 !important;
+            }
+            .section {
+            padding:0 15px 0;
+            }
+            .banner{
+            padding:0px 15px !important;
+            }
+            .welcome{
+            background-size: 60px;
+            padding:10px 15px 0;
+            }
+
+            .heading div, .subheading div {
+            font-size: 24px !important;
+            }
+            .projectSection{
+            padding:40px 15px 0 !important;
+            }
+            .projectColum > table > tbody > tr > td{
+            padding:0 0 10px !important;
+            }
+            .bottomSecion > table > tbody > tr > td{
+            padding: 210px 20px 0 !important;
+            }
+            .pro1BottomText{
+            padding:0 10px 15px !important;
+            }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="700px" mj-class="body">
+        <mj-wrapper background-color="#ffffff" padding="0">
+            <mj-section padding="0" css-class="section">
+                <mj-column padding="0 0 10px" vertical-align="top">
+                    <mj-image align="left" width="250px" padding="0" href="#" target="blank"
+                              src="assets/img/M-Mainzer_Stadtwerke_A_4c+schwarz Kopie-01.svg">
+                    </mj-image>
+                </mj-column>
+                <mj-column padding="0 0 10px" vertical-align="bottom">
+                    <mj-button font-family="proxima, Arial" color="#000" font-size="16px" align="right" padding="0"
+                               inner-padding="0"
+                               background-color="transparent" href="#">
+                        Online-Version anzeigen
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="bannerSection" background-url="assets/img/verlauf_oben.png"
+                        background-repeat="no-repeat" background-size="cover" padding="0">
+                <mj-column padding="0" vertical-align="top">
+                    <mj-image css-class="banner" href="#" target="blank"
+                              src="assets/img/AdobeStock_236361785.jpeg">
+                    </mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0" css-class="welcome">
+                <mj-column padding="0">
+                    <mj-text padding="0" font-family="proxima, Arial" font-weight="800" font-size="28px"
+                             css-class="heading">
+                        M-Weihnachtsgrüße
+                    </mj-text>
+                    <mj-text css-class="subheading" padding="0 0 40px" font-family="proxima, Arial" font-weight="normal"
+                             font-size="30px">
+                        Lieber Herr Mustermann,
+                    </mj-text>
+                    <mj-text padding="0 0 20px" font-family="proxima, Arial" font-weight="normal" line-height="23px"
+                             font-size="16px">in diesem Jahr ist alles anders – auch unsere Weihnachtsgrüße. Die
+                        Pandemie hat viele Menschen in
+                        Bedrängnis gebracht und nicht wenige, die es ohnehin nicht leicht haben, müssen jetzt noch
+                        stärker
+                        kämpfen.
+                    </mj-text>
+                    <mj-text padding="0 0 20px" font-family="proxima, Arial" font-weight="normal" line-height="23px"
+                             font-size="16px">Wir wollen gemeinsam mit Ihnen Gutes tun, unsere Region stark machen und
+                        haben drei Projekte
+                        ausgewählt, die wir unterstützen möchten. Wählen Sie nachfolgend einfach mit einem Klick Ihr
+                        Wunschprojekt aus, für das wir spenden sollen.
+                    </mj-text>
+                    <mj-text padding="0 0 20px" font-family="proxima, Arial" font-weight="normal" line-height="23px"
+                             font-size="16px">Verbringen Sie ein friedliches, schönes Weihnachtsfest. Wir freuen uns auf
+                        einen guten Start mit Ihnen in
+                        das neue Jahr!
+                    </mj-text>
+                    <mj-text padding="0" font-family="proxima, Arial" font-weight="600" line-height="23px"
+                             font-size="16px">Der Vorstand und die Mitarbeitenden
+                    </mj-text>
+                    <mj-text padding="0" font-family="proxima, Arial" font-weight="600" line-height="23px"
+                             font-size="16px">der Unternehmensgruppe Mainzer Stadtwerke
+                    </mj-text>
+                    <mj-button vertical-align="middle" align="center" border="0px" padding="50px 0px 30px" inner-padding="6px 8px 6px 10px" font-size="14px"
+                               line-height="19px" border-radius="0" background-color="#000" font-family="proxima, Arial"
+                               font-weight="800" href="#">
+                        Los geht´s – jetzt spenden!
+                        <span style="background: #e50051;display: inline-flex; padding:6px 6px;margin: -7px -8px -6px 15px;border-left: 5px solid #ffffff;vertical-align: middle;">
+                       <img width="20px" src="assets/img/Pfeil.png"/>
+                      </span>
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="0" css-class="projectSection" background-url="assets/img/Hintergrund_pink.png"
+                        background-repeat="no-repeat" background-size="contain">
+                <mj-column padding="7px" css-class="projectColum" inner-background-color="#ffffff"
+                           inner-border="1px solid rgba(0,0,0,.2)">
+                    <mj-image height="155px" padding="15px 15px 10px" href="#" target="blank"
+                              src="assets/img/img1.png">
+                    </mj-image>
+                    <mj-text css-class="heading" padding="0 15px 15px" font-family="proxima, Arial" font-weight="800"
+                             font-size="28px">
+                        Projekt 1:
+                    </mj-text>
+                    <mj-text css-class="subheading" padding="0 15px 30px" font-family="proxima, Arial"
+                             font-weight="normal" font-size="30px">
+                        Mainzer<br/>Hospiz
+                    </mj-text>
+                    <mj-text css-class="pro1BottomText" padding="0 15px 222px" font-family="proxima, Arial"
+                             font-weight="normal" line-height="23px" font-size="16px">Die haupt- und ehrenamtlichen
+                        Mitarbeiterinnen und
+                        Mitarbeiter im »Mainzer
+                        Hospiz« sind für Menschen da,
+                        die mit schweren Erkrankungen
+                        und dem Abschied vom Leben
+                        umgehen müssen. Sie leisten
+                        einen unschätzbaren Dienst
+                        für Patienten und auch für die
+                        Gesellschaft. Helfen wir ihnen,
+                        auch in unsicheren Zeiten
+                        weiter ihre Arbeit leisten zu
+                        können.
+                    </mj-text>
+                    <mj-button css-class="proBtn" vertical-align="middle" align="center" border="0px" padding="30px 10px" inner-padding="6px 8px 6px 10px" font-size="12px"
+                               line-height="19px" border-radius="0" background-color="#000" font-family="proxima, Arial"
+                               font-weight="800" href="#">
+                        Projekt 1 wählen!
+                        <span style="background: #e50051;display: inline-flex; padding:8px 8px;margin: -6px -8px -6px 15px;border-left: 4px solid #ffffff;vertical-align: middle;">
+                       <img width="15px" src="assets/img/Pfeil.png"/>
+                      </span>
+                    </mj-button>
+                </mj-column>
+                <mj-column css-class="projectColum" padding="7px" inner-background-color="#ffffff"
+                           inner-border="1px solid rgba(0,0,0,.2)">
+                    <mj-image height="155px" padding="15px 15px 10px" href="#" target="blank"
+                              src="assets/img/img2.png">
+                    </mj-image>
+                    <mj-text css-class="heading" padding="0 15px 15px" font-family="proxima, Arial" font-weight="800"
+                             font-size="28px">
+                        Projekt 2:
+                    </mj-text>
+                    <mj-text css-class="subheading" padding="0 15px 30px" font-family="proxima, Arial"
+                             font-weight="normal" font-size="30px">
+                        Mainzer<br/>Kinder
+                    </mj-text>
+                    <mj-text padding="0 15px 20px" font-family="proxima, Arial" font-weight="normal" line-height="23px"
+                             font-size="16px">Das Kinderhaus »Blauer
+                        Elefant« am Goethepark ist
+                        für Kinder aus der Neustadt
+                        im Alter zwischen 6 und 12
+                        Jahren zum Spielen und Lernen
+                        geöffnet. Chancengleichheit für
+                        Menschen in benachteiligenden
+                        Lebenssituationen herzustellen
+                        und durch Bildung von
+                        Anfang an Kindern und Eltern
+                        zur Seite zu stehen, ist das
+                        Ziel des Kinderhauses. Ob
+                        Hausaufgaben, Sprachkurse
+                        oder Ausflüge – viele
+                        unvergessliche Erlebnisse,
+                        die lange nachwirken und
+                        bestärken, würden wir den
+                        Kindern gerne mit Ihrer
+                        Unterstützung ermöglichen.
+                    </mj-text>
+
+                    <mj-button css-class="proBtn" vertical-align="middle" align="center" border="0px" padding="30px 10px" inner-padding="6px 8px 6px 10px" font-size="12px"
+                               line-height="19px" border-radius="0" background-color="#000" font-family="proxima, Arial"
+                               font-weight="800" href="#">
+                        Projekt 2 wählen!
+                        <span style="background: #e50051;display: inline-flex; padding:8px 8px;margin: -6px -8px -6px 15px;border-left: 4px solid #ffffff;vertical-align: middle;">
+                       <img width="15px" src="assets/img/Pfeil.png"/>
+                      </span>
+                    </mj-button>
+                </mj-column>
+                <mj-column css-class="projectColum" padding="7px" css-class="projectColum"
+                           inner-background-color="#ffffff" inner-border="1px solid rgba(0,0,0,.2)">
+                    <mj-image height="155px" padding="15px 15px 10px" href="#" target="blank"
+                              src="assets/img/img3.png">
+                    </mj-image>
+                    <mj-text css-class="heading" padding="0 15px 15px" font-family="proxima, Arial" font-weight="800"
+                             font-size="28px">
+                        Projekt 3:
+                    </mj-text>
+                    <mj-text css-class="subheading" padding="0 15px 30px" font-family="proxima, Arial"
+                             font-weight="normal" font-size="30px">
+                        Mainzer<br/>Familien
+                    </mj-text>
+                    <mj-text mj-class="pro3BottomText" padding="0 15px 42px" font-family="proxima, Arial"
+                             font-weight="normal" line-height="23px" font-size="16px">Der Mainzer Sport- und
+                        Kulturverein ARC-EN-CIEL
+                        e.V. setzt sich für die Vielfalt
+                        in unserer Gesellschaft ein. Er
+                        fördert Freundschaften und
+                        ein gemeinsames Miteinander.
+                        Das Projekt „Interkulturell
+                        & inklusiv“ macht sich für
+                        Familien mit Migrations- oder
+                        Fluchthintergrund stark,
+                        die ein Familienmitglied
+                        mit Behinderung haben. Sie
+                        bekommen wertvolle Hilfe,
+                        um kulturelle und sportliche
+                        Angebote wahrnehmen zu
+                        können. Mit einer Spende
+                        helfen wir, dass dieser Verein
+                        weiter einen wichtigen Beitrag
+                        zu echter gesellschaftlicher
+                        Teilhabe leistet.
+                    </mj-text>
+                    <mj-button css-class="proBtn" vertical-align="middle" align="center" border="0px" padding="30px 10px" inner-padding="6px 8px 6px 10px" font-size="12px"
+                               line-height="19px" border-radius="0" background-color="#000" font-family="proxima, Arial"
+                               font-weight="800" href="#">
+                        Projekt 3 wählen!
+                        <span style="background: #e50051;display: inline-flex; padding:8px 8px;margin: -6px -8px -6px 15px;border-left: 4px solid #ffffff;vertical-align: middle;">
+                       <img width="15px" src="assets/img/Pfeil.png"/>
+                      </span>
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="footer" background-url="assets/img/verlauf_dreiecke_unten.png"
+                        background-repeat="no-repeat" background-size="cover" padding="0">
+                <mj-column css-class="bottomSecion" padding="340px 20px 0" vertical-align="bottom">
+                    <mj-text align="right" padding="0" font-family="proxima, Arial" font-weight="normal"
+                             line-height="23px" font-size="16px">Wenn Sie keine weiteren E-Mails<br/>
+                        mehr erhalten möchten, können Sie
+                    </mj-text>
+
+                    <mj-button color="#000"  font-size="16px" align="right" padding="0 0 15px" inner-padding="0"
+                               background-color="transparent" href="#">
+                        sich <span style="text-decoration:underline;">hier abmelden</span>
+                    </mj-button>
+                    <mj-text align="right" padding="0 0 10px" font-family="proxima, Arial" font-weight="600"
+                             line-height="23px" font-size="16px">Mainzer Stadtwerke AG
+                    </mj-text>
+                    <mj-text align="right" padding="0 0 50px" font-family="proxima, Arial" font-weight="800"
+                             line-height="23px" font-size="16px">Impressum
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

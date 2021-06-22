@@ -1,0 +1,31 @@
+<mj-head>
+    <mj-title>Account Change</mj-title>
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"/>
+    <mj-font name="Aleo" href="https://fonts.googleapis.com/css2?family=Aleo:wght@400;700&display=swap"/>
+    <mj-attributes>
+        <mj-all font-size="14px" line-height="23.73px" font-family="Inter" color="#6E7791"/>
+        <mj-class name="sectionHeading" font-family="Inter" font-weight="600" font-size="22px" line-height="29px"
+                  color="#1B1031" align="center"/>
+        <mj-class name="btn" font-famaily="BRHendrixR" font-weight="400" font-size="16px" line-height="21px"
+                  border-radius="8px" inner-padding="12px 14px" color="#ffffff" width="182px"/>
+    </mj-attributes>
+    <mj-style> @font-face { font-family: 'BRHendrixR'; font-style: normal; font-weight: 400; src:
+        url('fonts/BRHendrix-Regular.otf') format('otf'); } @font-face { font-family: 'BRHendrixB'; font-style: normal;
+        font-weight: 700; src: url('fonts/BRHendrix-Bold.otf') format('otf') } .headerText{ font-family: 'BRHendrixB'; }
+        .BrFont{ font-family: 'BRHendrix'; } .IndexBanner{padding: 0 1.5px 0 1px;} .tableCss table{ border-collapse: separate !important; border-spacing: 0; border-radius:
+        15px !important; } .ipAddrssField > td{ padding: 10px 0 0 25px; } .locationField td { padding: 10px 10px 0 10px;
+        }
+        .orderIdField td{ padding: 10px 25px 0px 0 } .hideDesktop{ display:none !important; } .textBtn > table > tbody > tr > td {background: none !important;} 
+      .IndexBanner > table > tbody > tr > td {background-size:cover !important;}
+      
+      @media only screen and
+        (max-width:480px){ td.xs-center { text-align: center; } .xs-center table { margin: 0 auto;} .xs-center div
+        {text-align: center !important;} td.tableCss {padding:10px !important;} .tableCss td {padding: 10px !important;}
+        .xsHide{display:none !important;} .hideDesktop{ display:block !important; } .tableCss.hideDesktop{ padding: 10px 25px !important;} .fieldsSection{padding-right: 15px;
+        padding-left: 15px;} .bannerZindex.orderConfirm, .bannerZindex {
+        margin-top: -150px !important;
+        }  .IndexBanner > table > tbody > tr > td {padding: 0 0 20px !important; background: url(https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/049f4d16-4474-4b1e-9d29-4fdd32e1c715.png) no-repeat top center / cover !important;} .IndexBanner.Welcome > table > tbody > tr > td {padding: 0px 0 35px !important;}
+        .textBtn > table {width: 100% !important;} .textBtn > table p {display: block !important;}
+        }
+    </mj-style>
+</mj-head>

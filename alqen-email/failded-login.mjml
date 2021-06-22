@@ -1,0 +1,65 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+            <mj-include path="includes/top-header.mjml"/>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Failed Login</mj-text>
+                    <mj-text font-size="14px" font-family="Inter" color="#6E7791"> Hi <span>{firstname},</span>
+                    </mj-text>
+                    <mj-text>We have detected 3 failed login attempts to your account. If this was you, you may ignore
+                        this message.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column width="35%">
+                    <mj-text padding-right="0" css-class="BrFont" padding-bottom="0" color="#4F4F4F" font-weight="600">
+                        IP Address
+                    </mj-text>
+                    <mj-button css-class="textBtn" color="#6E7791" align="left" inner-padding="10px 14px" font-size="14px"
+                               line-height="15px" background-color="rgba(223, 229, 245, 0.15)" border-radius="4px">
+                        102.78.128.82
+                    </mj-button>
+                </mj-column>
+                <mj-column width="65%">
+                    <mj-text css-class="BrFont" padding-bottom="0" color="#4F4F4F" font-weight="600">Location <a
+                            href="#"><img style="position: relative;top: 1px;left: 3px;" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/6539f27a-db61-4aed-b12b-3afbdde6714b.png"/></a>
+                    </mj-text>
+                    <mj-button css-class="textBtn" color="#6E7791" align="left" inner-padding="10px 14px" line-height="15px"
+                               font-size="14px" background-color="rgba(223, 229, 245, 0.15)" border-radius="4px">
+                        Lakeland, New York
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text> If you did not attempt to login to your account, someone may be trying to get access to
+                        your account. These login attempts were unsuccessful and we have blocked the IP address from
+                        further attempts.
+                    </mj-text>
+                    <mj-text font-weight="600" color="#4F4F4F">Do I need to do anything?</mj-text>
+                    <mj-text>Sit sed malesuada risus sollicitudin. Ultrices consectetur et mollis eget ac tristique
+                        posuere. Adipiscing semper laoreet auctor.
+                    </mj-text>
+                    <mj-button mj-class="btn" align="center" background-color="#1B1031" href="#">
+                        Secure Account
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="50px">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">This was me, but in a new location!</mj-text>
+                    <mj-text>Sit sed malesuada risus sollicitudin. Ultrices consectetur et mollis eget ac tristique
+                        posuere. Adipiscing semper laoreet auctor.
+                    </mj-text>
+                    <mj-button mj-class="btn" align="center" background-color="#19BFAB" href="#">
+                        Contact Support
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

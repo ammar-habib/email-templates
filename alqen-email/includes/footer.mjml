@@ -1,0 +1,25 @@
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-text align="center" font-size="13px" line-height="20px"> This is an automatic e-mail, please do not reply to this e-mail. To stop<br />receiving these e-mails, you can <a href="#" style="color:#19BFAB">unsubscribe</a> here. </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="20px" padding-bottom="0">
+  <mj-column>
+    <mj-divider border-width="1px" border-style="solid" border-color="rgba(223, 229, 245, 0.5)" />
+  </mj-column>
+</mj-section>
+<mj-section padding-top="0">
+  <mj-column vertical-align="middle">
+    <mj-text css-class="xs-center" font-size="13px" line-height="20px"> Alqen ©️ 2021. All rights reserved. </mj-text>
+  </mj-column>
+  <mj-column vertical-align="middle">
+    <mj-social css-class="xs-center" align="right" mode="horizontal" vertical-align="middle">
+      <mj-social-element padding="4px 6px" target="_blank" href="http://linkedin.com/company/alqen" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/84ea4e5e-8cbb-401a-89f7-e7054e3700a4.png">
+      </mj-social-element>
+      <mj-social-element padding="4px 6px" target="_blank" href="https://www.instagram.com/alqen.io/" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/5e55f770-28c0-4c29-a78a-a9ffdcf52fa7.png">
+      </mj-social-element>
+      <mj-social-element padding="4px 6px" target="_blank" href="https://discordapp.com/users/202236502065807361" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/c3bcb554-131b-4dd0-9f80-789fc74aa356.png">
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>

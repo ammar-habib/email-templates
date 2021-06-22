@@ -1,0 +1,235 @@
+<mjml>
+    <mj-head>
+        <mj-title>Limited Hrs Email</mj-title>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" />
+        <mj-font name="Grand Hotel" href="https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap" />
+        <mj-attributes>
+            <mj-class name="navlink" padding="10px 30px" font-family="Poppins, serif" font-weight="600" font-size="16px" line-height="22px" text-transform="capitalize" />
+            <mj-class name="footerlink" color="#939393" padding="10px 30px" font-family="Poppins, serif" font-weight="600" font-size="14px" line-height="24px" letter-spacing="1px" text-transform="capitalize" />
+            <mj-all font-family="Poppins, Grand Hotel, serif" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#f9f9f9" width="700px">
+        <mj-wrapper padding="0px">
+            <mj-section padding-top="10px" padding-bottom="10px">
+                <mj-column>
+                    <mj-text align="right" font-family="Poppins" padding-bottom="0" padding-bottom="0" color="#939393" text-decoration="underline" font-weight="500" font-size="12px" letter-spacing="1px" line-height="22px">50% Off on All Product→
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="5px">
+                <mj-column>
+                    <mj-image href="#" target="blank" width="140px" src="https://editor.liramail.com/images/feshto/feshto_pur/logo-dark.png" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="8px" padding-bottom="0px">
+                <mj-column>
+                    <mj-divider border-width="2px" border-style="solid" border-color="#F1F1F1" />
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="5px" padding-bottom="5px">
+                <mj-column>
+                    <mj-navbar>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">Men</mj-navbar-link>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">Women</mj-navbar-link>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">Shoes</mj-navbar-link>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">Bags</mj-navbar-link>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">New</mj-navbar-link>
+                        <mj-navbar-link href="#" target="blank" mj-class="navlink">Sale</mj-navbar-link>
+                    </mj-navbar>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#E6E6E6" padding="0">
+                <mj-column padding="0" vertical-align="middle">
+                    <mj-image padding="0" src="https://editor.liramail.com/images/feshto/feshto_pur/limited-hrs@hero.png" />
+                </mj-column>
+                <mj-column padding="10px 30px" vertical-align="middle">
+                    <mj-text font-size="16px" font-weight="500" letter-spacing="1px" line-height="26px" padding="0 0 10px 0">NEW COLLECTION 2019</mj-text>
+                    <mj-text font-size="42px" font-weight="700" letter-spacing="1px" line-height="52px" padding="0 0 20px 0">Limited Hours Offer</mj-text>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="26px" padding="0 0 40px 0">From its medieval origins is to know about the ubiquitous</mj-text>
+                    <mj-button href="https://mjml.io/" align="left" background-color="#000" font-size="14px" font-weight="600" letter-spacing="1px" line-height="24px" inner-padding="14px 40px" padding="0" text-decoration="none" text-transform="uppercase" border-radius="0">
+                        shop Now
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="30px"></mj-section>
+            <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="30px">
+                <mj-column vertical-align="middle">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/limited-hrs@grid-2.png" />
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/limited-hrs@grid-2.png" />
+                </mj-column>
+                <mj-column padding="10px 25px" vertical-align="middle">
+                    <mj-text align="center" font-size="32px" font-weight="600" letter-spacing="1px" line-height="42px" padding="0 0 20px 0">Limited Edition</mj-text>
+                    <mj-text align="center" font-size="16px" font-weight="600" letter-spacing="1px" line-height="26px" padding="0 0 10px 0">VIEW COLLECTION</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="30px">
+                <mj-column>
+                    <mj-text font-size="24px" font-weight="600" align="center" letter-spacing="1px" line-height="34px" padding="0 0 10px 0">Limited Hrs Collection</mj-text>
+                    <mj-text color="#939393" font-size="14px" font-weight="400" align="center" letter-spacing="1px" line-height="24px" padding="0 0 10px 0">From its medieval origins to the digital everything<br/>there is to know about the ubiquitous</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="30px" background-color="#ffffff" full-width="full-width">
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Stretch Sweatshirts</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px">$<span>99.00</span></mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Cora Slide Shoes</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px"><strike>$<span>99.00</span></strike><span style="color:#000000;font-weight: 500; padding-left: 4px;">$<span>99.00</span></span>
+                    </mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Grey Trousers</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px">$<span>99.00</span></mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Stretch Sweatshirts</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px">$<span>99.00</span></mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Stretch Sweatshirts</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px">$<span>99.00</span></mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image src="https://editor.liramail.com/images/feshto/feshto_pur/6-col@product-7.png" alt="" width="240px"></mj-image>
+                    <mj-text font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px 0">Stretch Sweatshirts</mj-text>
+                    <mj-image align="left" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-star-dark.png" alt="rating" width="60px" padding="10px 25px 0"></mj-image>
+                    <mj-text color="#939393" font-size="16px" font-weight="400" letter-spacing="1px" line-height="24px" padding="10px 25px">$<span>99.00</span></mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="30px" background-color="#ffffff"  full-width="full-width">
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image padding="10px 25px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-black-box.png" alt="" width="50px"></mj-image>
+                    <mj-text align="center" font-size="18px" padding="0 25px 10px" font-weight="600" letter-spacing="1px" line-height="28px">Free Delivery</mj-text>
+                    <mj-text align="center" color="#939393" padding="0 25px 10px" font-size="14px" padding-bottom="10px" font-weight="400" letter-spacing="1px" line-height="24px">There are many variations of Lorem</mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image padding="10px 25px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-black-support.png" alt="" width="50px"></mj-image>
+                    <mj-text align="center" font-size="18px" padding="0 25px 10px" font-weight="600" letter-spacing="1px" line-height="28px">24 x 7 Support</mj-text>
+                    <mj-text align="center" color="#939393" padding="0 25px 10px" font-size="14px" padding-bottom="10px" font-weight="400" letter-spacing="1px" line-height="24px">There are many variations of Lorem</mj-text>
+                </mj-column>
+                <mj-column vertical-align="top" width="33.33333333333333%">
+                    <mj-image padding="10px 25px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-black-return.png" alt="" width="50px"></mj-image>
+                    <mj-text align="center" font-size="18px" padding="0 25px 10px" font-weight="600" letter-spacing="1px" line-height="28px">Easy Return</mj-text>
+                    <mj-text align="center" color="#939393" padding="0 25px 10px" font-size="14px" padding-bottom="10px" font-weight="400" letter-spacing="1px" line-height="24px">There are many variations of Lorem</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="30px">
+                <mj-column>
+                    <mj-text font-size="24px" font-weight="600" align="center" letter-spacing="1px" line-height="34px" padding="0 0 10px 0">What Client Says</mj-text>
+                    <mj-text color="#939393" font-size="14px" font-weight="400" align="center" letter-spacing="1px" line-height="24px" padding="0 0 10px 0">From its medieval origins to the digital everything<br/>there is to know about the ubiquitous</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="30px">
+                <mj-column>
+                    <mj-image padding="10px 25px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/icon-black-return.png" alt="" width="100px" border-radius="50%" height="auto"></mj-image>
+                    <mj-text color="#939393" font-size="14px" font-weight="400" align="center" letter-spacing="1px" line-height="24px" padding="0 0 20px 0">There are many variations of passages of Lorem Ipsum available but the <br/>majority have suffered alteration in some form humour</mj-text>
+                    <mj-text font-size="20px" font-weight="600" align="center" letter-spacing="1px" line-height="30px" padding="0 0 5px 0">Lois Wyatt</mj-text>
+                    <mj-text color="#939393" font-size="14px" font-weight="400" align="center" letter-spacing="1px" line-height="24px" padding="0 0 0 0">CEO-APCHE</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="30px" background-color="#ffffff" full-width="full-width">
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/client-1.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/client-2.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/client-3.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/client-4.png" alt="" width="137px"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="30px">
+                <mj-column>
+                    <mj-text font-size="32px" font-weight="600" align="center" letter-spacing="1px" line-height="42px" padding="0 0 10px 0">@FeshtoFashion</mj-text>
+                    <mj-text color="#939393" font-size="14px" font-weight="400" align="center" letter-spacing="1px" line-height="24px" padding="0 0 10px 0">Follow us on Instagrameverything</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="15px" background-color="#ffffff" full-width="full-width">
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/insta-1.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/insta-1.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/insta-1.png" alt="" width="137px"></mj-image>
+                </mj-column>
+                <mj-column vertical-align="top" width="25%">
+                    <mj-image padding="10px 10px 20px" src="https://editor.liramail.com/images/feshto/feshto_pur/insta-1.png" alt="" width="137px"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="0">
+                <mj-column vertical-align="middle">
+                    <mj-social mode="horizontal" vertical-align="middle" padding="10px">
+                        <mj-social-element icon-size="36px" target="_blank" href="#" src="https://editor.liramail.com/images/social/sms1/facebook.png">
+                        </mj-social-element>
+                        <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/twitter.png" href="#">
+                        </mj-social-element>
+                        <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/instagram.png" href="#">
+                        </mj-social-element>
+                        <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/pinterest.png" href="#">
+                        </mj-social-element>
+                        <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/snapchat.png" href="#">
+                        </mj-social-element>
+                        <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/youtube.png" href="#">
+                        </mj-social-element>
+                    </mj-social>
+                </mj-column>
+                <mj-column vertical-align="middle">
+                    <mj-social mode="horizontal" padding="10px">
+                        <mj-social-element   icon-size="110px" target="_blank" src="https://editor.liramail.com/images/feshto/feshto_pur/app-grey-apple-store.png" href="#">
+                        </mj-social-element>
+                        <mj-social-element  icon-size="110px" target="_blank" src="https://editor.liramail.com/images/feshto/feshto_pur/app-grey-google-play.png" href="#">
+                        </mj-social-element>
+                    </mj-social>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-divider border-width="2px" border-style="solid" border-color="#F1F1F1" />
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text color="#939393" font-size="24px" font-weight="600" align="center" letter-spacing="1px" line-height="32px" padding="0">Invite Friend, Get $10</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-divider border-width="2px" border-style="solid" border-color="#F1F1F1" />
+                </mj-column>
+            </mj-section>
+            <mj-section padding-bottom="30px">
+                <mj-column>
+                    <mj-navbar>
+                        <mj-navbar-link href="#" target="_blank" mj-class="footerlink">MY ACCOUNT</mj-navbar-link>
+                        <mj-navbar-link href="#" target="_blank" mj-class="footerlink">YOUR SERVICE</mj-navbar-link>
+                        <mj-navbar-link href="#" target="_blank" mj-class="footerlink">CAREERS</mj-navbar-link>
+                        <mj-navbar-link href="#" target="_blank" mj-class="footerlink">PRIVACY POLICY</mj-navbar-link>
+                    </mj-navbar>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text color="#939393" font-size="12px" font-weight="400" align="center" letter-spacing="1px" line-height="22px" padding="0 0 10px 0"> ©2019 Feshto, Inc. The brand names, slogans, logos, service marks and other trademarks of Feshto's goods, services and promotions belong exclusively to Feshto Inc. </mj-text>
+                    <mj-text color="#939393" font-size="12px" font-weight="400" align="center" letter-spacing="1px" line-height="22px" padding="0 0 30px 0" text-decoration="underline">Unsubscribe</mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

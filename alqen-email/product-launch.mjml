@@ -1,0 +1,66 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+           <mj-include path="includes/top-header.mjml"/>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">New Product Launch</mj-text>
+                    <mj-text font-size="14px" font-family="Inter" color="#6E7791"> Hi <span>{firstname},</span>
+                    </mj-text>
+                    <mj-text>Id mattis non volutpat euismod arcu. At odio sapien, egestas morbi eget dui ac enim. Leo
+                        non arcu morbi molestie lectus mattis pharetra aliquam nibh.
+                    </mj-text>
+                    <mj-button mj-class="btn" align="center" background-color="#1B1031" href="#">
+                        View In Browser
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section padding-top="0" padding-bottom="0">
+                <mj-column>
+                    <mj-spacer height="15px"/>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="0">
+                <mj-column>
+                    <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/b34f1cb9-9cc5-42d6-acc8-fe922ff6a126.png"/>
+                    <mj-text font-weight="600" color="#4F4F4F">Example Post Update</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column width="45%" background-color="#7C4FFF" padding="15px 0">
+                    <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/e732f6a8-8336-45f8-9b91-3fb9e429bc17.png" width="32px" align="left"/>
+                    <mj-text font-weight="500" color="#FFFFFF" padding-bottom="0">Sample Feature</mj-text>
+                    <mj-text font-size="13px" line-height="20px" color="#C4AFFF">Rutrum sed ac eget libero lectus lorem
+                        commodo magna. Et, sit velit sollicitudin mi leo.
+                    </mj-text>
+                </mj-column>
+                <mj-column width="5%">
+                    <mj-spacer/>
+                </mj-column>
+                <mj-column width="45%" background-color="#7C4FFF" padding="15px 0">
+                    <mj-image src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/ef513460-5cd4-482f-a0b3-5b6043d4badd.png" width="32px" align="left"/>
+                    <mj-text font-weight="500" color="#FFFFFF" padding-bottom="0">Sample Feature</mj-text>
+                    <mj-text font-size="13px" line-height="20px" color="#C4AFFF">Rutrum sed ac eget libero lectus lorem
+                        commodo magna. Et, sit velit sollicitudin mi leo.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
+                <mj-column>
+                    <mj-text font-weight="600" color="#4F4F4F">Example Post Update</mj-text>
+                    <mj-text>Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus
+                        posuere quis donec purus molestie. Sed arcu mauris aenean sit eu auctor.
+                    </mj-text>
+                    <mj-button mj-class="btn" align="center" background-color="#1B1031" href="#">
+                        View In Browser
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>

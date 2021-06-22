@@ -1,0 +1,67 @@
+<mjml>
+    <mj-include path="includes/header.mjml"/>
+    <mj-body>
+        <mj-wrapper padding="15px" background-color="#FCFCFF">
+            <mj-include path="includes/top-header.mjml"/>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column>
+                    <mj-text mj-class="sectionHeading">Invoice & Billing Reminder</mj-text>
+                    <mj-text font-size="14px" font-family="Inter" color="#6E7791"> Hi <span>{firstname},</span>
+                    </mj-text>
+                    <mj-text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam imperdiet ante sit libero.
+                        Magna in habitant ipsum elementum eget. Leo nunc leo nulla dign issim mauris pulvinar.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-bottom="0">
+                <mj-column width="35%">
+                    <mj-text padding-right="0" css-class="BrFont" padding-bottom="0" color="#FB3559" font-weight="600">
+                        Previous Billing
+                    </mj-text>
+                    <mj-button css-class="textBtn" color="#6E7791" align="left" inner-padding="10px 14px" font-size="14px"
+                               line-height="15px" background-color="rgba(241, 53, 89, 0.15)" border-radius="4px">$30.00
+                        USD
+                    </mj-button>
+                </mj-column>
+                <mj-column width="65%">
+                    <mj-text css-class="BrFont" padding-bottom="0" color="#4F4F4F" font-weight="600">Next Billing Cycle
+                        <span>(Mar. 31, 2021)</span></mj-text>
+                    <mj-button css-class="textBtn" color="#19BFAB" align="left" inner-padding="10px 14px" line-height="15px"
+                               font-size="14px" background-color="rgba(25, 191, 171, 0.15);
+" border-radius="4px">$150.00 USD
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff">
+                <mj-column>
+                    <mj-text color="#4F4F4F" font-weight="600" padding-bottom="0">Why did this change?</mj-text>
+                    <mj-text> If you did not request this change, please use the restore my password process to generate
+                        a new password. If you are unable to do this, you can contact us via our online customer support
+                        center.
+                    </mj-text>
+                    <mj-text color="#4F4F4F" font-weight="600" padding-bottom="0">Can I stop my subscription?</mj-text>
+                    <mj-text> If you did not request this change, please use the restore my password process to generate
+                        a new password. If you are unable to do this, you can contact us via our online customer support
+                        center.
+                    </mj-text>
+                    <mj-text>If you have further questions that we have not addressed in this e-mail, please contact us
+                        via our online customer support.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
+                <mj-column>
+                    <mj-button css-class="xs-center" mj-class="btn" padding="10px" align="right"
+                               background-color="#19BFAB" href="#"> Contact Support
+                    </mj-button>
+                </mj-column>
+                <mj-column>
+                    <mj-button css-class="xs-center" mj-class="btn" padding="10px" align="left"
+                               background-color="#1B1031" href="#"> Check Billing
+                    </mj-button>
+                </mj-column>
+            </mj-section>
+            <mj-include path="includes/footer.mjml"/>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
