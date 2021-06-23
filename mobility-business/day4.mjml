@@ -1,0 +1,299 @@
+<mjml>
+    <mj-head>
+        <mj-title>Welcome</mj-title>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"/>
+        <mj-attributes>
+            <mj-all font-family="Poppins, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b"/>
+            <mj-class name="heading" font-weight="600" font-size="22px" line-height="30px"/>
+            <mj-class name="btn" font-weight="400" font-size="16px" line-height="24px" background-color="#ffffff"
+                      border="1px solid #D6D6D8" border-radius="0" inner-padding="8px 22px" color="#221f20"/>
+        </mj-attributes>
+        <mj-style> .mobileView { display: none; } .desktopView { display: block; } .li-line{ width: 80px; display:
+            inline-block; height: 4px; background: #e6e6e6; vertical-align: middle;} .li-line.blue{background: #1270e3;
+            } .btn-bottom-text{ padding: 10px 145px !important; } .white-box{box-shadow: 2px 2px 30px 0 rgba(0, 0, 0,
+            0.05);background-color: #ffffff} @media only screen and (max-width:480px){.btn-bottom-text{ padding: 10px
+            25px !important; } .li-line{ width: 60px;} mobileView { display: block; } .desktopView { display: none
+            !important; } .xs-center{text-align:center !important;} .header-logo{ margin-bottom:15px; margin-right:0
+            !important;} .header > div{ font-size: 22px !important; line-height: 30px !important;} }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-wrapper full-width padding="0" background-color="#ffffff">
+            <mj-section padding="0" background-color="#1270e3">
+                <mj-column>
+                    <mj-text css-class="header" align="center" font-family="Poppins, Arial" font-size="24px" line-height="32px"
+                             color="#ffffff" padding="30px 15px">
+                        <div class="header-logo" style="display: inline-block;margin-right: 10px;">
+                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/logo.png"
+                                 alt="logo">
+                        </div>
+                        <div class="xs-center" style="display: inline-block;text-align:left;"> Mobility Business<br/>
+                            <span style="font-weight:600">Training and Certificate</span>
+                        </div>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-spacer height="8px"/>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="white-box" border="1px solid rgba(0, 0, 0, 0.05)" border-radius="8px">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="30px">Your Week 1 Progress</mj-text>
+                    <mj-text font-size="12px" font-weight="500" line-height="28px">
+                        <ul style="padding-left: 0; list-style: none; vertical-align: middle;">
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 70px;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_completed.png"
+                                     alt="goal_completed">
+                                <div style="margin-bottom:4px;">Day 1</div>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 60px;">
+                                <span style="width: 80px; display: inline-block; height: 4px; background: #1270e3; vertical-align: middle;"></span>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_completed.png"
+                                     alt="goal_empty">
+                                <div style="margin-bottom:4px;">Day 2</div>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 60px;">
+                                <span style="width: 80px; display: inline-block; height: 4px; background: #1270e3; vertical-align: middle;"></span>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_completed.png"
+                                     alt="goal_empty_full">
+                                <div style="margin-bottom:4px;">Day 3</div>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle;height: 60px;">
+                                <span style="width: 80px; display: inline-block; height: 4px; background: #1270e3; vertical-align: middle;"></span>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty.png"
+                                     alt="goal_empty_full">
+                                <div style="margin-bottom:4px;">Day 4</div>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle;height: 60px;">
+                                <span style="width: 80px; display: inline-block; height: 4px; background: #e6e6e6; vertical-align: middle;"></span>
+                            </li>
+                            <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 70px;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty_full.png"
+                                     alt="goal_empty_full">
+                                <div style="margin-bottom:4px;">Day 5</div>
+                            </li>
+                        </ul>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="18px" line-height="26px">So [NAME],</mj-text>
+                    <mj-text font-size="18px" line-height="26px">Now that you know about IoTs, it’s time to learn about
+                        the different micro electric vehicles you can implement and their purpose within the context of
+                        business.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text mj-class="heading">Week 1 - Day 4 Lesson Plan</mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 1<br/>
+                                <span style="font-weight:500;font-size:14px;">Intro to Day 4</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 2<br/>
+                                <span style="font-weight:500; font-size:14px;">What is Micro-Mobility?</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 3<br/>
+                                <span style="font-weight:500;font-size:14px;">E-bikes for Mobility Businesses</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 4<br/>
+                                <span style="font-weight:500; font-size:14px;">E-scooters for Mobility</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 5<br/>
+                                <span style="font-weight:500;font-size:14px;">E-mopeds for Mobility</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 6<br/>
+                                <span style="font-weight:500; font-size:14px;">Cargo and Specialty Vehicles</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 7<br/>
+                                <span style="font-weight:500;font-size:14px;">Selecting the Right Vehicles</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 8<br/>
+                                <span style="font-weight:500; font-size:14px;">End of day exercise</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section padding="5px 0">
+                <mj-column>
+                    <mj-text font-size="18px" font-weight="600" line-height="22px" vertical-align="top"
+                             padding-right="15px">
+                        <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
+                            <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                     alt="logo">
+                            </div>
+                            <div style="display: inline-block;text-align:left;width: 85%;">Lesson 9<br/>
+                                <span style="font-weight:500;font-size:14px;">Congrats & What's Next?</span>
+                            </div>
+                        </a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text font-weight="500" vertical-align="top">
+                        <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/resources_illustration.png"
+                                 alt="logo">
+                        </div>
+                        <div style="display: inline-block; text-align:left;;width: 80%;">Daily Resources, Documents and
+                            Templates Included
+                        </div>
+                    </mj-text>
+                    <mj-button align="center" href="#" target="_blank" inner-padding="12px 25px" border-radius="6px"
+                               background-color="#1270e3" color="#ffffff">
+                        <div class="desktopView" style="display: inline-block;margin-right: 15px; vertical-align: top;">
+                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                 alt="logo">
+                        </div>
+                        <div style="display: inline-block;">Start Day 4 Now - Electric Vehicles</div>
+                    </mj-button>
+                    <mj-text css-class="btn-bottom-text" font-size="12px" line-height="20px" align="center"
+                             font-weight="500" vertical-align="top"> In Just 30 Minutes a Day You’ll Be One Step Closer
+                        to Build a Mobility Business
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section css-class="white-box" border="1px solid rgba(0, 0, 0, 0.05)" border-radius="8px"
+                        background-color="#ffffff">
+                <mj-column>
+                    <mj-text css-class="std-section-heading" mj-class="heading" align="center">What Our Students are
+                        Saying:
+                    </mj-text>
+                    <mj-text css-class="std-section">
+                        <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
+                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/left_double_quote.png"
+                                 alt="logo">
+                        </div>
+                        <div style="display: inline-block;width:88%;">So I started looking for sharing vehicles and that
+                            lead me down a rabbit hole of IoTs and then factories started talking about protocols and
+                            technical things that didn’t make sense at the time. I found the mobility academy and low
+                            and behold they actually teach about IoTs for e-bikes and scooters.<span
+                                    style="margin-left: 10px;">
+                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/right_double_quote.png"
+                     alt="logo">
+              </span>
+                            <div style="font-weight: 500;padding-top: 10px;">Rick G. - Canada</div>
+                        </div>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="14px" line-height="20px" css-class=""> If you have questions, our amazing team
+                        of experts will get right back to you. <a href="#" style="color: #42474b">Contact us</a> for
+                        more info.
+                    </mj-text>
+                    <mj-text font-size="14px" line-height="20px" font-weight="600" css-class=""> Kind Regards.<br/>
+                        Cosmic Team
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
