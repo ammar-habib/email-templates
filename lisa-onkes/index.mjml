@@ -1,40 +1,36 @@
 <mjml>
   <mj-head>
     <mj-title>Lisa Onkes</mj-title>
-    <mj-font name="Rubik" href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;1,700&display=swap"/>
+    <mj-font name="Rubik" href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;1,700&display=swap" />
     <mj-attributes>
-      <mj-all font-family="Rubik, sans-serif" font-size="12px" font-weight="400" line-height="12px" color="#000000"/>
+      <mj-all font-family="Rubik, sans-serif" font-size="12px" font-weight="400" line-height="12px" color="#000000" />
     </mj-attributes>
-    <mj-style> .bgSide{ background:#000; height: 187px;} .contentSide{margin: 37px 0 0;} .mobileView { display: none; } .desktopView { display: block; } .social{display: inline-block; float: right; } @media only screen and (max-width:480px){.mobileView { display: block; } .desktopView { display: none !important; } .contentSide{border-right: none;} .xs-center{text-align:center !important;} .social{display: block; float: none; margin-top: 10px; }.bgSide{  height: 150px;} .logo{padding:50px 25px 20px !important }} </mj-style>
+    <mj-style> .bgSide{ background:#000; height: 187px;} .contentSide{margin: 0 0 0;} .mobileView { display: none; } .desktopView { display: block; } .infoText{padding: 5px 0 5px 15px; display: block; margin-right: 80px; border-bottom: 0.5px solid #00000099;} @media only screen and (max-width:480px){.mobileView { display: block; } .desktopView { display: none !important; } .contentSide{border-right: none;} .xs-center{text-align:center !important;} .social{display: block; float: none; margin-top: 10px; }.bgSide{} .logo{padding:50px 25px 20px !important }} </mj-style>
   </mj-head>
   <mj-body>
-    <mj-wrapper full-width padding="0" background-color="#fcfcfc">
-      <mj-section>
-        <mj-column width="30%"  vertical-align="middle" css-class="bgSide">
-          <mj-text padding-bottom="0" font-size="20px" align="center" color="#ffffff" line-height="24px">
-            Lisa Onkes	
-          </mj-text>
-          <mj-text padding-top="0" font-size="11px" align="center" color="#ffffff" line-height="13px">
-           CEO & Founder
-          </mj-text>
-          <mj-text font-size="38px" font-weight="700" font-style="italic " align="center" color="#ffffff" line-height="46px">
-           sqwr.
-          </mj-text>
+    <mj-wrapper full-width padding="0" background-color="#ffffff" border="1px solid #00000099">
+      <mj-section padding="0">
+        <mj-column width="180px" vertical-align="middle" css-class="bgSide">
+          <mj-text padding-bottom="0" font-size="20px" align="center" color="#ffffff" line-height="24px"> Lisa Onkes </mj-text>
+          <mj-text padding-top="0" font-size="11px" align="center" color="#ffffff" line-height="13px"> CEO & Founder </mj-text>
+          <mj-text font-size="38px" font-weight="700" font-style="italic " align="center" color="#ffffff" line-height="46px"> sqwr. </mj-text>
         </mj-column>
-        <mj-column width="20%"  vertical-align="middle">
-           <mj-image  css-class="desktopView" padding="0" align="right" src="img/desktopImg.jpg" alt="line"></mj-image>
-         
-        
+        <mj-column width="120px" vertical-align="middle">
+          <mj-image css-class="desktopView" padding="0" align="right" src="img/desktopImg.jpg" alt="line"></mj-image>
         </mj-column>
-        <mj-column width="50%" css-class="contentSide">
-          <mj-text  font-size="12px" font-weight="400" line-height="14px" padding="15px 25px 4px">
-            <a href="#" style="text-decoration: none;color: #000;">+49 17641122321</a>
+        <mj-column width="49.8%" css-class="contentSide">
+          <mj-text font-size="12px" font-weight="400" line-height="14px" padding="15px 25px 4px">
+            <a href="tel:+4917641122321" class="infoText" style="text-decoration: none;color: #000;">+49 17641122321</a>
+            <a href="mailto:onkes@thesquareware.de" class="infoText" style="text-decoration: none;color: #000;">onkes@thesquareware.de</a>
+            <span class="infoText">Breitestraße 27 53111 Bonn</span>
           </mj-text>
-           <mj-text font-size="12px" font-weight="400" line-height="14px" padding="4px 25px 10px">
-            <a href="#" style="text-decoration: none;color: #000;">+49 17641122321</a>
+          <mj-text font-size="10px" font-weight="400" line-height="12px" padding="10px 25px 4px 40px" color="#000"> Hey there
           </mj-text>
-          <mj-text font-size="12px" font-weight="400" line-height="14px" padding="15px 25px 10px" color="#000">
-           Breitestraße 27 53111 Bonn
+          <mj-text font-size="10px" font-weight="400" line-height="12px" padding="0px 25px 4px 40px" color="#000"> Schedule your call with us <a href="#" style="color:#000;">Here</a>
+          </mj-text>
+          <mj-text font-size="10px" font-weight="400" line-height="12px" padding="15px 25px 10px 40px" color="#000">
+            <a href="#" style="color:#000; margin-right:8px;">Impressum</a>
+            <a href="#" style="color:#000;">Datenschutz</a>
           </mj-text>
         </mj-column>
       </mj-section>

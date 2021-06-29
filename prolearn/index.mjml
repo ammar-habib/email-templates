@@ -1,69 +1,124 @@
 <mjml>
   <mj-head>
-    <mj-title>Reveal-al</mj-title>
-    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" />
+    <mj-title>Rro Learn</mj-title>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" />
     <mj-attributes>
-      <mj-all font-family="Poppins, Arial" font-size="17px" font-weight="400" line-height="28px" color="#42474b" />
+      <mj-all font-family="Poppins, Arial" font-size="18px" font-weight="400" line-height="1.667" color="#42474b" />
     </mj-attributes>
-    <mj-style> .mobileView { display: none; } .desktopView { display: block;}@media only screen and (max-width:480px){ .mobileView { display: block; } .desktopView { display: none !important; }} </mj-style>
+    <mj-style> .mobileView { display: none; } .desktopView { display: block;} td.center-col {padding: 10px 10px !important;} td.left-col {padding: 10px 10px 10px 25px !important;} td.right-col {padding: 10px 25px 10px 10px !important;} @media only screen and (max-width:480px){ .mobileView { display: block; } .desktopView { display: none !important; } td.center-col, td.left-col, td.right-col {padding: 10px 25px !important;} td.col-right-content{padding: 10px 25px 0 25px !important;} } </mj-style>
   </mj-head>
   <mj-body>
     <mj-wrapper full-width padding="0" background-color="#ffffff">
       <mj-section padding="20px 0 30px">
+        <mj-column border-right="1px solid #aba4a4">
+          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/prolearn.png" width="350px" align="center"></mj-image>
+        </mj-column>
         <mj-column>
-          <mj-image href="#" target="_blank" src="img/logo.png" width="350px" align="center"></mj-image>
+          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/logo-2.png" width="350px" align="center"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
         <mj-column>
-          <mj-text font-size="20px" font-family="Poppins, Arial" font-weight="400"> Dear <b style="color:#89c440">Learnapalooza</b> Attendee </mj-text>
+          <mj-text font-size="24px" line-height="1.2" font-family="Poppins, Arial" font-weight="400"> Dear <b style="color:#89c440">Learnapalooza</b> Attendee </mj-text>
           <mj-text font-family="Poppins, Arial" font-weight="400"> We wanted to reach out <b>post-conference</b> and make sure that <b>as you look to select an LMS solution, that you book your 1-on-1 demo</b> with <span style="color:#00bdd4"><b>ProLearn</b> (a Learnapalooza Silver LMS sponsor!)</span> </mj-text>
           <mj-text font-family="Poppins, Arial" font-weight="400"> Who is using ProLearn LMS to automate and scale their association online learning programs? </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column width="40%">
-          <mj-image href="#" target="_blank" src="img/img1.png" align="center"></mj-image>
+        <mj-column width="40%" inner-background-color="#00384A" inner-border="1px solid #bcbbbb" padding="10px 25px" vertical-align="middle">
+          <mj-image padding="20px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/Pennsylvania_Medical_Society.png" align="center"></mj-image>
         </mj-column>
-        <mj-column width="60%">
-          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text css-class="col-right-content" padding="0px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
           <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400"> - 40,000 users (MD’s, DO’s, Nurses) </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column width="40%">
-          <mj-image href="#" target="_blank" src="img/img2.png" align="center"></mj-image>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#bcbbbb" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle" width="40%" inner-background-color="#ffffff" inner-border="1px solid #bcbbbb" padding="10px 25px">
+          <mj-image padding="0 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/ISMA.png" align="center"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle" width="60%">
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">The Indiana State Medical Association </mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400">- 10,000 physicians and 20,000 other medical professionals</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#bcbbbb" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="40%" css-class="desktopView">
+          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/img5.png" align="center"></mj-image>
         </mj-column>
         <mj-column width="60%">
-          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
-          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400"> - 40,000 users (MD’s, DO’s, Nurses) </mj-text>
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">American Association of Hipand Knee Surgeons</mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400">- 2019, 2020 and 2021 Annual conference hosted on platform</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#bcbbbb" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="40%" vertical-align="middle" inner-background-color="#ffffff" inner-border="1px solid #bcbbbb" padding="10px 25px">
+          <mj-image padding="16px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/ACBA.png" align="center"></mj-image>
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">Alameda County Bar Association</mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400">– Went instantly live for the COVID pandemic. 3300 users, live streamed 200+ courses on ProLearn in 2020, processed 7500+ CLE registrations and awarded 9000+ CLE credits</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="#bcbbbb" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column width="40%" vertical-align="middle" inner-background-color="#121111" inner-border="1px solid #121111" padding="10px 25px">
+          <mj-image padding="14px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/img4.png" align="center"></mj-image>
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">Alabama State Bar</mj-text>
+          <mj-text css-class="col-right-content" padding="0 25px 0 0" font-family="Poppins, Arial" font-weight="400">- 7+ year ProLearn customer. 20,000 users. Delivers approximately 50,000 CLE registrations and 75,000 CLE credits per year. </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="30px 0">
         <mj-column>
-          <mj-text font-family="Poppins, Arial" font-weight="600" align="center" text-transform="uppercase" font-size="22px" color="#00bdd4">Other reasons to choose ProLearn: </mj-text>
+          <mj-text font-family="Poppins, Arial" font-weight="700" align="center" text-transform="uppercase" font-size="24px" line-height="1.5" color="#00bdd4">Other reasons to choose ProLearn: </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-        <mj-column>
-          <mj-image src="img/cost_icon.png" width="85px" align="left"></mj-image>
-          <mj-text align="left" font-family="Poppins, Arial" font-weight="600" font-size="18px" color="#214b90">Cost </mj-text>
-          <mj-text align="left" font-family="Poppins, Arial" align="left" font-size="14px" line-height="20px" font-weight="600">We're 50% less than almost any other LMS at our level - and still better in terms of features. </mj-text>
+        <mj-column vertical-align="top">
+          <mj-image css-class="left-col" padding-bottom="0" src="https://appblogspot.com/Learnapalooza/cost_icon.png" width="65px" align="left"></mj-image>
+          <mj-text css-class="left-col" align="left" font-family="Poppins, Arial" font-weight="700" font-size="18px" color="#214b90">Cost </mj-text>
+          <mj-text css-class="left-col" align="left" font-family="Poppins, Arial" align="left" font-size="14px" line-height="1.286" font-weight="600">We're 50% less than almost any other LMS at our level - and still better in terms of features. </mj-text>
         </mj-column>
-        <mj-column>
-          <mj-image src="img/live_icon.png" width="65px" align="left"></mj-image>
-          <mj-text font-family="Poppins, Arial" font-weight="600" align="left" font-size="18px" color="#214b90">Instantly Live </mj-text>
-          <mj-text align="left" font-family="Poppins, Arial" font-size="14px" line-height="20px" font-weight="600">With our drag and drop features, you can create a course in minutes and have it available for your learners instantly. Hosting a live event? With one click you can turn it into an on-demand course. </mj-text>
+        <mj-column vertical-align="top">
+          <mj-image css-class="center-col" src="https://appblogspot.com/Learnapalooza/live_icon.png" width="65px" align="left"></mj-image>
+          <mj-text css-class="center-col" font-family="Poppins, Arial" font-weight="700" align="left" font-size="18px" color="#214b90">Instantly Live </mj-text>
+          <mj-text css-class="center-col" align="left" font-family="Poppins, Arial" font-size="14px" line-height="1.286" font-weight="600">With our drag and drop features, you can create a course in minutes and have it available for your learners instantly. Hosting a live event? With one click you can turn it into an on-demand course. </mj-text>
         </mj-column>
-        <mj-column>
-          <mj-image src="img/zoom_icon.png" width="65px" align="left"></mj-image>
-          <mj-text font-family="Poppins, Arial" font-weight="600" align="left" font-size="18px" color="#214b90">Zoom Integration</mj-text>
-          <mj-text align="left" font-family="Poppins, Arial" font-size="14px" line-height="20px" font-weight="600">Seamless integration with Zoom meeting/webinar. Host your conferences online and get special features for attendance tracking and more. </mj-text>
+        <mj-column vertical-align="top">
+          <mj-image css-class="right-col" src="https://appblogspot.com/Learnapalooza/zoom_icon.png" width="65px" align="left"></mj-image>
+          <mj-text css-class="right-col" font-family="Poppins, Arial" font-weight="700" align="left" font-size="18px" color="#214b90">Zoom Integration</mj-text>
+          <mj-text css-class="right-col" align="left" font-family="Poppins, Arial" font-size="14px" line-height="1.286" font-weight="600">Seamless integration with Zoom meeting/webinar. Host your conferences online and get special features for attendance tracking and more. </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section padding="0">
+      <mj-section padding="30px 0 20px">
         <mj-column>
-          <mj-button width="100%" height="80px" background-color="#89c440" font-family="Poppins, Arial" font-weight="600" align="center" text-transform="uppercase" font-size="35px" color="#16394a" line-height="35px">Book your demo today! </mj-button>
+          <mj-button width="100%" height="80px" background-color="#89c440" font-family="Poppins, Arial" font-weight="bold" align="center" text-transform="uppercase" font-size="40px" color="#16394a" padding="0" line-height="40px">Book your demo today! </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20px 0">
+        <mj-column>
+          <mj-divider border-width="2px" border-style="solid" border-color="#16394a" />
         </mj-column>
       </mj-section>
       <mj-section padding="0">
@@ -73,22 +128,22 @@
         </mj-column>
       </mj-section>
       <mj-section padding="0">
-      <mj-column>
-        <mj-social font-size="15px" border-radius="15px" icon-size="20px" mode="horizontal">
-          <mj-social-element name="facebook" href="#">
-          </mj-social-element>
-          <mj-social-element  name="twitter" href="#">
-          </mj-social-element>
-          <mj-social-element name="google" href="#">
-          </mj-social-element>
-           </mj-social-element>
-          <mj-social-element name="linkedin" href="#">
-          </mj-social-element>
-         <mj-social-element name="pinterest" href="#">
-          </mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section>
+        <mj-column>
+          <mj-social font-size="15px" border-radius="15px" icon-size="20px" mode="horizontal">
+            <mj-social-element name="facebook" href="#">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="#">
+            </mj-social-element>
+            <mj-social-element name="google" href="#">
+            </mj-social-element>
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="#">
+            </mj-social-element>
+            <mj-social-element name="pinterest" href="#">
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
     </mj-wrapper>
   </mj-body>
 </mjml>
