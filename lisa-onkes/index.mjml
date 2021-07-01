@@ -12,7 +12,9 @@
       <mj-section padding="0">
         <mj-column width="40%" vertical-align="middle" css-class="bgSide">
           <mj-text padding="30px 0 30px 40px" font-size="20px" align="center" color="#ffffff" line-height="24px">
-            <div class="xs-center" style="float:left"> Lisa Onkes <div style="font-size:11px;line-height:13px; margin-bottom: 30px;">CEO & Founder</div>
+            <div class="xs-center" style="float:left">
+              Lisa Onkes
+              <div style="font-size:11px;line-height:13px; margin-bottom: 30px;">CEO & Founder</div>
               <div class="desktopView" style="font-size:38px;line-height:46px; font-weight:700; font-style:italic;">sqwr.</div>
             </div>
             <img class="desktopView" style="float:right; border-top-left-radius: 10px; border-bottom-left-radius: 10px;" src="https://show-demo.herokuapp.com/lisa-onkes/img/2.jpg">
