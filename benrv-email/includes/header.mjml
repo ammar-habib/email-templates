@@ -1,0 +1,10 @@
+<mj-head>
+  <mj-title>Account Change</mj-title>
+  <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" />
+  <mj-attributes>
+    <mj-all font-size="14px" line-height="23.73px" font-family="Poppins, Sans-serif" color="#000" />
+    <mj-class name="sectionHeading" font-family="Poppins, Sans-serif" font-weight="600" font-size="22px" line-height="29px" color="#004192" align="center" text-transform="uppercase" />
+    <mj-class name="btn" font-family="Poppins, Sans-serif" font-weight="700" font-size="16px" line-height="16px" letter-spacing="2.5px" color="#fff" align="center" text-transform="uppercase" padding="10px 30px" background-color="#004192" border-radius="100px" />
+  </mj-attributes>
+  <mj-style> .tableCss table{ border-collapse: separate !important; border-spacing: 0; border-radius: 15px !important; } .ipAddrssField > td{ padding: 10px 0 0 25px; } .locationField td { padding: 10px 10px 0 10px; } .orderIdField td{ padding: 10px 25px 0px 0 } .hideDesktop{ display:none !important; } .textBtn > table > tbody > tr > td {background: none !important;} @media only screen and (max-width:480px){ td.xs-center { text-align: center; } .xs-center table { margin: 0 auto;} .xs-center div {text-align: center !important;} td.tableCss {padding:10px !important;} .tableCss td {padding: 10px !important;} .xsHide{display:none !important;} .hideDesktop{ display:block !important; } .tableCss.hideDesktop{ padding: 10px 25px !important;} .fieldsSection{padding-right: 15px; padding-left: 15px;} .bannerZindex.orderConfirm, .bannerZindex { margin-top: -150px !important; } .textBtn > table {width: 100% !important;} .textBtn > table p {display: block !important;} } @media (prefers-color-scheme: dark ) { .dark-logo {display: block !important; }.light-logo {display: none !important;}} @media (prefers-color-scheme: light ) { .dark-logo {display: none !important; }.light-logo {display: block !important;}} </mj-style>
+</mj-head>

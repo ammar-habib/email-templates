@@ -1,0 +1,38 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper padding="15px" background-color="rgba(246, 246, 246, 0.96)">
+      <mj-include path="includes/top-header.mjml" />
+      <mj-section background-color="#ffffff" padding-bottom="0" border-top="4px solid #004192">
+        <mj-column>
+          <mj-text mj-class="sectionHeading">Welcome to Benrv</mj-text>
+          <mj-text> Hi <span>{firstname},</span>
+          </mj-text>
+          <mj-text> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam imperdiet ante sit libero. Magna in habitant ipsum elementum eget. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="0">
+        <mj-column>
+          <mj-text> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam imperdiet ante sit libero. Magna in habitant ipsum elementum eget. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="0">
+        <mj-column>
+          <mj-button css-class="xs-center" mj-class="btn" href="#"> Setup Account </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-bottom="50px">
+        <mj-column>
+          <mj-text padding-bottom="0">Feel free to contact us if you have any questions</mj-text>
+          <mj-text  padding-top="0" padding-bottom="0">Sincerely,
+
+</mj-text>
+          <mj-text  padding-top="0">{{shop.name}}
+
+</mj-text> 
+        </mj-column>
+      </mj-section>
+      <mj-include path="includes/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -15,9 +15,11 @@
           <mj-text font-size="12px" font-weight="400" line-height="14.3px" padding="0 25px 8px">Senior Front End Developer @ <br> <span style="font-size:10px;">Techmate Technologies LLC</span></mj-text>
           <mj-image padding="0" width="143px" align="left" src="https://ammarhabib.herokuapp.com/email/img/line-big.png" alt="line"></mj-image>
           <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding="15px 25px 10px">
-             145 CCA Sector C Phase 5 D.H.A, Lahore</mj-text>
+            <img src="https://ammarhabib.herokuapp.com/email/img/address_icon.png" alt="address-icon" />
+            145 CCA Sector C Phase 5 D.H.A, Lahore
+            </mj-text>
           <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding-top="0">
-            
+            <img src="https://ammarhabib.herokuapp.com/email/img/address_icon.png" alt="address-icon" />
             +92 (335) 616 - 4660 <span style="padding:0 10px;">|</span><a href="https://ammarhabib.herokuapp.com/" target="_blank" style="
     text-decoration:none !important;
     color: #223147;
@@ -26,8 +28,12 @@
             www.ammarhabib.me</a>
           </mj-text>
           <mj-text font-size="12px" font-weight="500" line-height="14.3px" padding="0 25px">
-            <div style="padding-bottom:3px; display:block; color: #223147;">ammar@techmatetech.com</div>
-            <span style="color: #223147;">ammar.habib.mughal@gmail.com</span>
+            <div style="padding-bottom:3px; display:block; color: #223147;">
+              <img src="https://ammarhabib.herokuapp.com/email/img/email_icon.png" alt="link-icon" />
+              ammar@techmatetech.com</div>
+            <span style="color: #223147;">
+              <img src="https://ammarhabib.herokuapp.com/email/img/email_icon.png" alt="link-icon" />
+              ammar.habib.mughal@gmail.com</span>
             <span class="social">
               <a href="https://www.linkedin.com/in/ammar-habib111/" target="_blank" style="text-decoration: none;margin: 0 2px; color:#223147 !important;">
                 <img src="https://ammarhabib.herokuapp.com/email/img/link.png" alt="link-icon" />

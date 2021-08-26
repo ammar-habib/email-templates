@@ -1,0 +1,26 @@
+<mj-section padding-bottom="0">
+  <mj-column vertical-align="middle">
+    <mj-text css-class="xs-center" font-size="13px" line-height="20px"> Benrv ©️ 2021. All rights reserved. </mj-text>
+  </mj-column>
+  <mj-column vertical-align="middle">
+    <mj-social css-class="xs-center" align="right" mode="horizontal" vertical-align="middle">
+      <mj-social-element name="twitter" padding="4px 6px" target="_blank" href="#">
+      </mj-social-element>
+      <mj-social-element name="instagram" padding="4px 6px" target="_blank" href="#">
+      </mj-social-element>
+      <mj-social-element padding="4px 6px" target="_blank" href="#" src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/c3bcb554-131b-4dd0-9f80-789fc74aa356.png">
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="0" padding-bottom="0">
+  <mj-column>
+    <mj-divider border-width="1px" border-style="solid" border-color="rgba(223, 229, 245, 0.5)" />
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom="0">
+  <mj-column>
+    <mj-text padding-bottom="0" align="center" font-size="13px" line-height="20px">Shop Name<span style="padding:0 10px;">|</span>FRANCE</mj-text>
+    <mj-text padding-top="6px" align="center" font-size="13px" line-height="20px">If you have any questions please contact us<br />Shop Email<span style="padding:0 10px;">|</span>Shop URL</mj-text>
+  </mj-column>
+</mj-section>

@@ -9,11 +9,11 @@
   </mj-head>
   <mj-body>
     <mj-wrapper full-width padding="0" background-color="#ffffff" border="0.5px solid #d3cccc99">
-      <mj-section text-align="left"	padding="0">
+      <mj-section text-align="left" padding="0">
         <mj-column width="25%" vertical-align="middle" css-class="bgSide">
           <mj-text padding="40px 0 0" font-size="20px" align="center" color="#ffffff" line-height="24px"> Lisa Onkes </mj-text>
           <mj-text padding="0 0 20px" font-size="11px" align="center" color="#ffffff" line-height="13px"> CEO & Founder </mj-text>
-          <mj-image  css-class="desktopView" src="https://show-demo.herokuapp.com/lisa-onkes/img/logo-white.png" width="108px"></mj-image>
+          <mj-image css-class="desktopView" src="https://show-demo.herokuapp.com/lisa-onkes/img/logo-white.png" width="108px"></mj-image>
         </mj-column>
         <mj-column width="20%" vertical-align="middle">
           <mj-image css-class="desktopView" fluid-on-mobile="ture" padding="0" height="170px" src="https://show-demo.herokuapp.com/lisa-onkes/img/desktopImg.jpg"></mj-image>
@@ -25,6 +25,7 @@
               <a href="tel:+4917641122321" class="infoText" style="text-decoration: none;color: #000;">+49 17641122321</a>
               <a href="mailto:onkes@thesquareware.de" class="infoText" style="text-decoration: none;color: #000;">onkes@thesquareware.de</a>
               <span class="infoText">Breitestraße 27 53111 Bonn</span>
+            </div>
           </mj-text>
           <mj-text css-class="xs-center" font-size="10px" font-weight="400" line-height="12px" padding="8px 0 0 30px">
             <div>Hey there <img style="top: 1px;margin-left: 2px; position: relative;" src="https://show-demo.herokuapp.com/lisa-onkes/img/hand.png"> </div>

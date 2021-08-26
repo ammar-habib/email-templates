@@ -1,0 +1,170 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper padding="15px" background-color="rgba(246, 246, 246, 0.96)">
+      <mj-include path="includes/top-header.mjml" />
+      <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="0" border-top="4px solid #004192">
+        <mj-column>
+          
+           <mj-text mj-class="sectionHeading">Order Success</mj-text>
+        </mj-column>
+      </mj-section>
+            <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="0">
+        <mj-column>
+          <mj-button css-class="xs-center" align="left"  color="#ffffff" inner-padding="6px 10px" font-size="14px"
+                   line-height=15px
+                   background-color="#004192" border-radius="4px">
+            Order ID:
+        </mj-button>
+          
+        </mj-column>
+               <mj-column>
+          <mj-button css-class="xs-center" align="right" color="#ffffff" inner-padding="6px 10px" font-size="14px"
+                   line-height=15px
+                   background-color="#004192" border-radius="4px">
+            Created at:
+        </mj-button>
+          
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0" >
+        <mj-column>
+          <mj-text font-weight="600" font-size="16px" color="#004192">Order Summary</mj-text>
+          <mj-text> Donec lorem suspendisse aenean orci. Faucibus sagittis, volutpat integer egestas. Luctus posuere quis donec purus molestie. </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-raw> destkop table </mj-raw>
+          <mj-table border="1px solid #19BFAB" font-size="13px" line-height="20px" color="#15655B" css-class="tableCss xsHide">
+            <tr>
+              <td rowspan="3" style="padding:15px 15px 15px 20px; border-right:1px solid #19BFAB; border-bottom-left-radius: 15px; border-top-left-radius: 15px; word-break: normal;">
+                <div style="
+                                        display: inline-block;
+                                        background: rgba(25, 191, 171, 0.15);
+                                        font-weight: bold;
+                                        font-size: 12px;
+                                        line-height: 15px;
+                                        color: #19BFAB;
+                                        padding: 4px;
+                                        border-radius: 4px;
+                                        margin-bottom: 20px;
+                                    ">10 Items </div>
+                <div style="
+                                        font-size: 17px;
+                                        color: #2A3D7A;
+                                        font-weight: bold;
+                                        margin-bottom: 6px;
+                                    ">Product Name</div>
+                <div style="
+                                      font-size: 14px;
+                                      color: #6E7791;
+                                  ">$9.00</div>
+              </td>
+              <td style="padding:10px 15px 0; background: #DDF6F3; word-break: normal; ">Subtotal</td>
+              <td style="padding: 10px 0 0 15px; background: #DDF6F3; border-top-right-radius: 15px; word-break: normal;"> $1,923.00 USD </td>
+            </tr>
+            <tr>
+              <td style="padding:0 15px 10px;background: #DDF6F3; border-bottom:0.3px solid #19BFAB; word-break: normal;">Discount (20%) </td>
+              <td style="padding: 0 10px 0 15px;background:#DDF6F3; border-bottom:0.3px solid #19BFAB; word-break: normal;"> $323.00 USD </td>
+            </tr>
+            
+            <tr style="">
+              <td style="padding:10px 15px; font-weight: bold; background: #DDF6F3;">Total</td>
+              <td style="padding:10px 0 0 15px; font-weight: bold;background: #DDF6F3; border-bottom-right-radius: 15px;"> $2,200.00 </td>
+            </tr>
+          </mj-table>
+          <mj-raw> mobile view table </mj-raw>
+          <mj-table border="1px solid #19BFAB" font-size="13px" line-height="20px" color="#15655B" css-class="tableCss hideDesktop">
+            <tr>
+              <td colspan="2" style="padding:15px 15px 15px 20px; border-bottom-left-radius: 15px; border-top-left-radius: 15px; word-break: normal;">
+                <div style="
+                                        display: inline-block;
+                                        background: rgba(25, 191, 171, 0.15);
+                                        font-weight: bold;
+                                        font-size: 12px;
+                                        line-height: 15px;
+                                        color: #19BFAB;
+                                        padding: 4px;
+                                        border-radius: 4px;
+                                        margin-bottom: 20px;
+                                    ">10 Users </div>
+                <div style="
+                                        font-size: 17px;
+                                        color: #2A3D7A;
+                                        font-weight: bold;
+                                        margin-bottom: 6px;
+                                    ">Team Plan Title </div>
+                <div style="
+                                      font-size: 14px;
+                                      color: #6E7791;
+                                  ">$9.00 per user / monthly </div>
+              </td>
+            </tr>
+            <tr>
+              <td style="border-top: 1px solid #19BFAB; padding:20px 20px 10px; background: #DDF6F3; word-break: normal; ">Subtotal</td>
+              <td style="border-top: 1px solid #19BFAB; padding:20px 20px 10px; background: #DDF6F3; word-break: normal; text-align: right;"> $1,923.00 USD </td>
+            </tr>
+            <tr>
+              <td style="padding:0 20px 10px;background: #DDF6F3;  word-break: normal;">VAT (20%) </td>
+              <td style="padding: 0 20px 10px;background:#DDF6F3; word-break: normal; text-align: right;"> $323.00 USD </td>
+            </tr>
+            <tr>
+              <td style="padding:10px 20px 15px; font-weight: bold; background: #DDF6F3; border-bottom-left-radius: 15px;">Total</td>
+              <td style="padding:10px 20px 15px; font-weight: bold;background: #DDF6F3; border-bottom-right-radius: 15px; text-align: right;"> $2,200.00 </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-text padding-bottom="0" font-size="16px" font-weight="600" color="#004192">Shop Details</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="fieldsSection" background-color="#ffffff" padding-bottom="0">
+        <mj-column>
+          <mj-text padding="10px 25px 0" font-weight="600">Shop name</mj-text>
+          <mj-button css-class="textBtn" padding="10px 25px 10px" color="#000" align="left" inner-padding="10px 14px" font-size="14px" line-height="15px" background-color="rgba(0, 65, 146, 0.15)" border-radius="4px">Benrv</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="10px 25px 0" font-weight="600">Shop Email</mj-text>
+          <mj-button css-class="textBtn" padding="10px 25px 10px" color="#000" align="left" inner-padding="10px 14px" font-size="14px" line-height="15px" background-color="rgba(0, 65, 146, 0.15)" border-radius="4px">Shop@shop.com</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section css-class="fieldsSection" background-color="#ffffff" padding-bottom="0" padding-top="0">
+        <mj-column>
+          <mj-text padding="10px 25px 0" font-weight="600">Shop URL</mj-text>
+          <mj-button css-class="textBtn" padding="10px 25px 10px" color="#000" align="left" inner-padding="10px 14px" font-size="14px" line-height="15px" background-color="rgba(0, 65, 146, 0.15)" border-radius="4px">www.Benrv.com</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="10px 25px 0" font-weight="600">Location</mj-text>
+          <mj-button css-class="textBtn" padding="10px 25px 10px" color="#000" align="left" inner-padding="10px 14px" font-size="14px" line-height="15px" background-color="rgba(0, 65, 146, 0.15)" border-radius="4px"> Lakeland, New York</mj-button>
+        </mj-column>
+      </mj-section>
+      
+      
+     
+      <mj-section background-color="#ffffff"  padding-bottom="0">
+        <mj-column>
+          <mj-text font-weight="600" font-size="16px" color="#004192">Billing Address</mj-text>
+          <mj-text> Delight Confection, 123 Billing Street, Billtown, Kentucky K2POBO, United States</mj-text>
+          <mj-text font-weight="600" font-size="16px" color="#004192">Shipping Address</mj-text>
+          <mj-text> Delight Confection, 123 Billing Street, Billtown, Kentucky K2POBO, United States</mj-text>
+          <mj-button mj-class="btn" padding="30px 25px" align="center" background-color="#004192" href="#"> Download Receipt </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff"  padding-bottom="50px">
+        <mj-column>
+          <mj-text padding-bottom="0">Feel free to contact us if you have any questions</mj-text>
+          <mj-text  padding-top="0" padding-bottom="0">Sincerely,
+
+</mj-text>
+          <mj-text  padding-top="0">{{shop.name}}
+
+</mj-text> 
+        </mj-column>
+      </mj-section>
+      <mj-include path="includes/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,15 @@
+<mj-section css-class="header">
+    <mj-column vertical-align="middle">
+        <mj-image width="140px" css-class="xs-center light-logo header-logo" href="#" align="left" alt="header-logo" width="100px" src="https://benrv.fr/wp-content/uploads/2021/02/NRV-Noir.png">
+        </mj-image>
+      <mj-image width="140px" css-class="xs-center dark-logo header-logo" href="#" align="left" alt="header-logo" width="100px" src="https://show-demo.herokuapp.com/benrv-email/img/logoWhite.png">
+        </mj-image>
+    </mj-column>
+    <mj-column vertical-align="middle" css-class="xsHide">
+        <mj-button css-class="xs-center" color="#ffffff" align="right" inner-padding="6px 10px" font-size="14px"
+                   line-height=15px
+                   background-color="#004192" border-radius="4px">
+            BE THE ONE, BE NRV
+        </mj-button>
+    </mj-column>
+</mj-section>
