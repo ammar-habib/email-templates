@@ -1,0 +1,77 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="15px" background-color="#ffffff">
+      <mj-section padding="0" background-color="#00A858">
+        <mj-column vertical-align="middle">
+          <mj-text align="center" padding="10px 0" font-family="Montserrat, sans-serif" color="#fff" font-size="14px" line-height="20px">
+FREE SHIPPING ON ORDERS OVER $100 →
+</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image padding="20px 0" width="250px" css-class="header-logo" href="#" align="center" alt="header-logo" src="https://plethoracbd.com/wp-content/uploads/2021/04/The-Logo.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="15px">
+        <mj-column vertical-align="middle">
+          <mj-navbar>
+            <mj-navbar-link padding="4px 10px" text-transform="uppercase" font-size="16px" href="#" color="#000">Shop</mj-navbar-link>
+            <mj-navbar-link padding="4px 10px" text-transform="uppercase" font-size="16px" href="#" color="#000">Our Story</mj-navbar-link>
+            <mj-navbar-link padding="4px 10px" text-transform="uppercase" font-size="16px" href="#" color="#000">Wel informed</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+      <mj-hero css-class="yasBanner" mode="fixed-height" height="600px" background-width="600px" background-height="100%" background-url="https://plethoracbd.com/wp-content/uploads/2021/05/PLETHORA-CBD-SHOP.jpg" background-color="#F8F8F8" padding="15px 0px 15px" vertical-align="top">
+        <mj-text css-class="bannerText" padding="30px 60px 10px" color="#fff" align="center" font-size="32px" line-height="40px" font-weight="700" text-transform="uppercase">Your order is on its way</mj-text>
+        <mj-text css-class="bannerSubText" padding="10px 15px" color="#fff" align="center" font-size="25px" line-height="25px" font-weight="400" font-family="Varela, sans-serif">Check out our Best Selling</mj-text>
+        <mj-button mj-class="btn" padding="10px 0" align="center" href="#">Shop Now!</mj-button>
+      </mj-hero>
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-text align="center" font-family="Montserrat, sans-serif">Hey Annette,</mj-text>
+          <mj-text align="center" padding="10px 0" font-family="Montserrat, sans-serif">Our team of experts has received your order and are preparing it for you right now. </mj-text>
+          <mj-text align="center" padding="10px 0 30px" font-family="Montserrat, sans-serif">Since you are the newest addition to Brown Women Wellness, we'd like to Welcome You by giving you first pick on our most popular product and newest arrivals.</mj-text>
+          <mj-button mj-class="btn" padding="10px 0" align="center" href="#">Check out best collections!</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-text css-class="centerSecionHeading" mj-class="sectionHeading">Featured Collections</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="0">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 0 30px">
+        <mj-column>
+          <mj-button mj-class="btn" padding="30px 0 10px" align="center" href="#">Browse More!</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-include path="includes/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>

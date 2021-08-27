@@ -1,0 +1,76 @@
+<mj-head>
+    <mj-title>Emails</mj-title>
+    <mj-font name="Varela" href="https://fonts.googleapis.com/css2?family=Varela&family=Montserrat:wght@400;500;700&display=swap"/>
+    <mj-attributes>
+        <mj-all font-size="16px" line-height="25px" font-family="Varela, sans-serif" color="#000"/>
+        <mj-class name="sectionHeading" font-family="Varela, sans-serif" font-weight="700" font-size="20px" line-height="28px"
+                  color="#000;" align="center" padding="10px 0px" text-transform="uppercase"/>
+        <mj-class name="btn" font-weight="400" font-size="18px" line-height="24px" background-color="#00A858"
+                  border-radius="0px" text-transform="uppercase" inner-padding="14px 20px" color="#ffffff"
+                   font-family="Montserrat, sans-serif"/>
+    </mj-attributes>
+    <mj-style>
+        .centerSecionHeading{
+        padding: 10px 100px !important;
+        }
+        .mobileView {
+        display: none;
+        }
+        .desktopView {
+        display: block;
+        }
+        .noisyTopRightSecion > table > tbody > tr > td {
+        background: #303030;
+        border-radius: 4px;
+        color: #ffff;
+        }
+
+        @media only screen and (max-width:480px){
+        .mobileRightCol > table > tbody > tr > td, .mobileLeftCol > table > tbody > tr > td{
+        padding: 0 0 10px !important;
+        }
+        .btnBlock > table{
+        width:100% !important
+        }
+        .sectionPb30 > table > tbody > tr > td {
+        padding-bottom: 0 !important;
+        }
+        .centerSecionHeading{
+        padding: 10px 0px !important;
+        }
+        .yasBanner, .yasBanner > table > tbody > tr > td{
+
+        }
+        .liveBanner, .liveBanner > table > tbody > tr > td{
+
+        }
+        .yasbannerText > div {
+        font-size: 21px !important;
+        }
+        .mobileView {
+        display: block;
+        }
+        .desktopView {
+        display: none;
+        }
+        .liveBannerBtn a {
+        font-size: 14px !important;
+        line-height: 28px !important;
+        width: 100px !important;
+        padding: 4px 10px !important;
+        }
+        .liveBannerBtn > table {
+        width: 100px !important;
+        }
+        .liveBanner > table > tbody > tr, .liveBanner > table > tbody > tr > td {
+        vertical-align: middle !important;;
+        }
+        .mobileRightCol.noisyTopRightSecion > table > tbody > tr > td {
+        padding: 30px 20px !important;
+        }
+      .noisyTopRightSecion {
+    margin-top: -20px;
+}
+        }
+    </mj-style>
+</mj-head>
