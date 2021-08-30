@@ -10,6 +10,9 @@
                    font-family="Montserrat, sans-serif"/>
     </mj-attributes>
     <mj-style>
+      body{
+      background: whitesmoke;
+      }
         .centerSecionHeading{
         padding: 10px 100px !important;
         }
