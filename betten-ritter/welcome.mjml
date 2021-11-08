@@ -1,0 +1,136 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#ffffff">
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/" padding="20px 0" width="250px" css-class="header-logo" target="_blank" align="center" alt="header-logo" src="img/Logo.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text mj-class="sectionHeading sectionHeadingBig" align="center"> ERFÜLLEN SIE SICH IHREN BETTENTRAUM</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text css-class="centerSecionHeading" mj-class="sectionHeading" align="center">DESIGNERBETT AUPING ESSENTIAL KONFIGURIEREN UND <span style="color:#ff1616;">15% SPAREN!</span></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text align="center">
+            <a href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px;">
+              <img style="width: 100%;" src="img/1.png" />
+              <div style="color:#2b2b23;">Designerbett "Essential"</div>
+              <div style="color:#9b9c9e;">Auping</div>
+              <div style="color:#9b9c9e;">AB<span style="color:#ff1616; padding: 0 6px;">754,00 € </span><span style="color:#ff1616;">( -15% )</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>      
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" mj-class="btn" padding="10px 0" align="center">HIER KONFIGURIEREN</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0 0 0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/auping/?p=1&o=2&n=24"  target="_blank" align="center" alt="img-2" src="img/2.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="centerSecionHeading" mj-class="sectionHeading">Das bestseller - bett</mj-text>
+        </mj-column>
+      </mj-section>
+       <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text align="center">
+            <a href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px;">
+              <img style="width: 100%;" src="img/3.png" />
+              <div style="color:#2b2b23;">Boxspringbett Basic "Kapi</div>
+              <div style="color:#9b9c9e;">Betten ritter</div>
+              <div style="color:#9b9c9e;">AB<span style="padding: 0 6px;">1.698,00 €</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>      
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" mj-class="btn" padding="10px 0" align="center">HIER entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="centerSecionHeading" mj-class="sectionHeading">Das bestseller - bett</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+         <mj-text css-class="LeftColLink" align="center">
+            <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-1" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px;">
+              <img style="width: 100%;" src="img/4.png" />
+              <div style="color:#2b2b23;">Nackenstützkissen "Cervical NB 1"</div>
+              <div style="color:#9b9c9e;">Dormabell</div>
+              <div style="color:#9b9c9e;">AB<span style="padding: 0 6px;">109,95  €</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+          <mj-text css-class="RightColLink" align="center">
+            <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-2" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px;">
+              <img style="width: 100%;" src="img/5.png" />
+             <div style="color:#2b2b23;">Nackenstützkissen "Cervical NB 2"</div>
+              <div style="color:#9b9c9e;">Dormabell</div>
+              <div style="color:#9b9c9e;">AB<span style="padding: 0 6px;">119,95 €</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section padding="0">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column css-class="mobileLeftCol" padding="0 15px 0 0">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 15px">
+          <mj-image width="200px" padding="0 0 10px" fluid-on-mobile="true" border-radius="4px" src="https://plethoracbd.com/wp-content/uploads/2021/04/PLETHORA-CBD-2000MG-FULL-SPECTRUM-CBD-COOLING-PEPPERMINT-RUB-1-300x300.png"></mj-image>
+          <mj-text align="center" padding="0" font-size="15px" font-weight="700" text-transform="capitalize">4 000MG Full Spectrum CBD Oil</mj-text>
+          <mj-text align="center" padding="0px 0 10px" font-size="15px" font-weight="400" font-family="Montserrat, sans-serif">$ 30.99</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-spacer height="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-include path="includes/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>
