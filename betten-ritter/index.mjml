@@ -1,0 +1,450 @@
+<mjml>
+  <mj-include path="includes/header.mjml" />
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#ffffff">
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/" padding="20px 10px" width="300px" css-class="header-logo" target="_blank" align="center" alt="header-logo" src="img/Logo-new.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text css-class="sectionHeading big" mj-class="sectionHeading sectionHeadingBig" align="center"> ERFÜLLEN SIE SICH IHREN BETTENTRAUM</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="8px 10px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading" align="center">DESIGNERBETT AUPING ESSENTIAL KONFIGURIEREN UND <span style="color:#ff1616;">15% SPAREN!</span></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text padding="10px 10px" align="center">
+            <a href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+              <img style="width: 100%;" src="img/1.png" />
+              <div style="color:#2b2b23;">Designerbett "Essential"</div>
+              <div style="color:#9b9c9e;">Auping</div>
+              <div style="color:#9b9c9e;">AB<span style="color:#ff1616; padding: 0 6px;">754,00 € </span><span style="color:#ff1616;">( -15% )</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">HIER KONFIGURIEREN</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0 0 0">
+        <mj-column vertical-align="middle">
+          <mj-image padding="10px 10px" href="https://www.bettenritter.com/auping/?p=1&o=2&n=24" target="_blank" align="center" alt="img-2" src="img/2.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">Das bestseller - bett</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text padding="10px 10px" align="center">
+            <a href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+              <img style="width: 100%;" src="img/3.png" />
+              <div style="color:#2b2b23;">Boxspringbett Basic "Kapi</div>
+              <div style="color:#9b9c9e;">Betten ritter</div>
+              <div style="color:#9b9c9e;">AB<span style="padding: 0 6px;">1.698,00 €</span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" mj-class="btn" css-class="btn" padding="10px 10px" align="center">HIER entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">KISSEN FÜR DEN NACKEN</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-1" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0; overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/4.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 1"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px;">109,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-2" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/5.png" />
+                </div>
+                <div style="color:#2b2b23;  padding: 0 25px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 2"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px;">119,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-3" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0;overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/6.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 3"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px;">119,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-4" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/7.png" />
+                </div>
+                <div style="color:#2b2b23;  padding: 0 25px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 4"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px;">119,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-5" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0;overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/8.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 5"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px;">119,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-6" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 90px;">
+                  <img width="100%" src="img/9.png" />
+                </div>
+                <div style="color:#2b2b23;  padding: 0 25px 4px; line-height: 1.2;">Nackenstützkissen "Cervical NB 6"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">139,95 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/?p=1&o=3&n=24&s=4" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">Mehr Entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px 20px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">Weitere highlights</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/betten/komfort-funkti-onsbetten/1832/setangebot-komfortbett-coruna-inklusive-motorisiertem-rost-und-matratze#1707d32fef881d0208f7a23627ec6fef" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0;overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/10.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Bett "Coruna" inklusive motorrost & mataratze</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px; color:#ff1616">998,00 € ( -46% )</span>.<span style="text-decoration: line-through;text-decoration-color: #000;text-decoration-thickness: 3px;">1.051,00 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2888/tempur-boxspringbett-check-180-x-200-cm-mit-durchgehender-matratze-ausstellungsstueck" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/11.png" />
+                </div>
+                <div style="color:#2b2b23;  padding: 0 25px 4px; line-height: 1.2;">Boxspringbett "Check" <br> 180 x 200 cm</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Tempur</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;"><span style="padding: 0 6px; color:#ff1616">4.199,00 € ( -25% )</span>.<span style="text-decoration: line-through;text-decoration-color: #000;text-decoration-thickness: 3px;">5.599,00 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/bettdecken/faserdecken/2191/dormabell-winterbettdecke-klimafaser-edition-wb-4" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0;overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/12.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Winterbettdecke "Klimafaser-Edition WB 4"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">329,95 € </span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/matratzen/kaltschaummatratzen/2569/dormabell-kaltschaummatratze-classic-s?number=BR12339" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/13.png" />
+                </div>
+                <div style="color:#2b2b23;  padding: 0 25px 4px; line-height: 1.2;">Kaltschaummatratze "Classic S"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">579,00 €</span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+            <mj-text css-class="LeftColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/daunen-und-federn/2519/dormabell-kopfkissen-60-d" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0;overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/14.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Kopfkissen Aus <br> daunen "60 D"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">49,95 € </span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+            <mj-text css-class="RightColLink" align="center">
+              <a href="https://www.bettenritter.com/schlafen/kopfkissen/daunen-und-federn/2520/dormabell-kopfkissen-90-d" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+                <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 130px;">
+                  <img width="100%" src="img/15.png" />
+                </div>
+                <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Kopfkissen Aus <br> daunen "90 D"</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+                <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">59,95 € </span></div>
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+         <mj-group>
+        <mj-column css-class="mobileLeftCol" padding="0 5px 0 0">
+          <mj-text css-class="LeftColLink" align="center">
+            <a href="https://www.bettenritter.com/unsere-marken/dormabell/876/dormabell-molton-matratzenau%1Fage-s-159?number=BR10706.11" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+              <div style="width: 80%; position: relative;margin: 0 auto; padding: 30px 0;overflow: hidden; height: 130px;">
+                <img width="100%" src="img/16.png" />
+              </div>
+              <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Molton <br> Matratzenauflage "s 159"</div>
+              <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+              <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">29,95 € </span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column css-class="mobileRightCol" padding="0 0 0 5px">
+          <mj-text css-class="RightColLink" align="center">
+            <a href="https://www.bettenritter.com/schlafen/bettdecken/daunendecken/2177/dormabell-winterdaunendecke-daunen-edition-wb-4" target="_blank" style="display: block;width: 100%;height:100%;background: #f8f8fa; text-decoration: none;text-decoration: none;text-transform: uppercase;font-size: 14px;color: #2b2b23; padding-bottom:10px; font-weight:600;">
+              <div style="width: 80%; position: relative; margin: 0 auto; padding: 30px 0; overflow: hidden; height: 130px;">
+                <img width="100%" src="img/17.png" />
+              </div>
+              <div style="color:#2b2b23; padding: 0 10px 4px; line-height: 1.2;">Winterdaunendecke "Daunen Edition WB 4"</div>
+              <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">Dormabell</div>
+              <div style="color:#9b9c9e; padding: 0 10px; font-size:12px;">AB<span style="padding: 0 6px;">449,96 € </span></div>
+            </a>
+          </mj-text>
+        </mj-column>
+          </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/?p=1&o=3&n=24&s=4" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">Mehr Entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px 30px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading" padding-bottom="0">FREUDE VERSCHENKEN</mj-text>
+          <mj-text css-class="sectionHeadingTag" mj-class="sectionHeading sectionHeadingTag" padding-bottom="25px">MIT DEM GESCHENKGUTSCHEIN VON BETTEN RITTER </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="0 15px" inner-background-color="#f8f8fa">
+          <mj-image href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625" target="_blank" padding="25px 20px" src="img/18.png"></mj-image>
+          <mj-text align="center" font-size="14px" font-weight="600"> BETRAG AUSWÄHLEN </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 10px 0 10px" background-color="#f8f8fa" css-class="tagSection">
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;
+                      font-family: Montserrat, sans-serif;
+                      font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625" target="_blank">25 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.2" target="_blank">50 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.4" target="_blank">75 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.6" target="_blank">100 €</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 10px 15px 10px" background-color="#f8f8fa" css-class="tagSection">
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.8" target="_blank">150 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.10" target="_blank">200 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.12" target="_blank">250 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.14" target="_blank">500 €</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="25px 15px" background-color="#ffffff">
+        <mj-column>
+          <mj-image href="https://www.bettenritter.com/" padding="20px 10px" width="300px" css-class="header-logo" target="_blank" align="center" alt="header-logo" src="img/Logo-new.png">
+          </mj-image>
+          <mj-text padding="15px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="700" line-height="24px" text-transform="capitalize">Telefon</mj-text>
+          <mj-text padding="10px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="300" line-height="26px" text-transform="uppercase" letter-spacing="2px">
+            <a href="tel:0721 494570" style="color: #9b9c9e;text-decoration: none;">0721 494570</a>
+          </mj-text>
+          <mj-text padding="15px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="700" line-height="24px" text-transform="capitalize">Öffnungszeiten</mj-text>
+          <mj-text padding="10px 0 0 10px" align="center" color="#9b9c9e" align="center" font-size="18px" font-weight="300" line-height="26px" text-transform="capitalize" letter-spacing="4px"> Montag - Freitag von 9:30 - 19:00 Uhr <br /> Samstag von 10:00 - 17:00 Uhr </mj-text>
+          <mj-divider padding="40px 15px 30px" border-width="2px" border-style="solid" border-color="#00766e" />
+          <mj-text padding="0 0 0 10px" align="center" color="#000" align="center" font-size="16px" font-weight="600" line-height="24px" text-transform="capitalize">Folgen Sie Uns</mj-text>
+          <mj-social font-size="16px" padding="0" icon-size="25px" mode="horizontal">
+            <mj-social-element padding="15px 20px" href="https://www.instagram.com/betten_ritter_karlsruhe/" background-color="#000" name="instagram">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.facebook.com/BettenRitterGmbh" background-color="#000" name="facebook">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.pinterest.com/bettenritter/_created/" background-color="#000" name="pinterest">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.youtube.com/channel/UCNh3D1xekc_o47Skbl-eTSw" background-color="#000" name="youtube">
+            </mj-social-element>
+          </mj-social>
+          <mj-divider padding="25px 15px 20px" border-width="2px" border-style="solid" border-color="#00766e" />
+          <mj-text padding="0 15px" letter-spacing="2px" align="center" font-weight="600" align="center" font-size="14px" line-height="24px">Newsletter <a href="#" style="color:#000">abmelden</a></mj-text>
+          <mj-navbar>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/impressum" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Impressum |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/datenschutz" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Datenschutz |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/kontaktformular?forceMail=1" letter-spacing="2px" target="_blank" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-weight="600" font-size="14px" color="#000">Kontakt |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/account" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Mein Konto</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

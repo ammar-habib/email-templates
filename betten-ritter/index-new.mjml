@@ -1,0 +1,321 @@
+<mjml>
+  <mj-head>
+    <mj-title>Betten Ritter</mj-title>
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" />
+    <mj-attributes>
+      <mj-all font-size="16px" line-height="25px" font-family="Montserrat, sans-serif" color="#2b2b23" font-weight="400" />
+      <mj-class name="sectionHeading" font-family="Montserrat, sans-serif" font-weight="600" font-size="26px" line-height="normal" color="#2b2b23;" align="center" padding="10px 10px" text-transform="uppercase" letter-spacing="2px" />
+      <mj-class name="sectionHeadingBig" font-size="30px" color="#00766e" />
+      <mj-class name="sectionHeadingTag" font-size="16px" />
+      <mj-class name="btn" width="215px" font-weight="400" font-size="16px" line-height="20px" background-color="#00766e" border-radius="0px" text-transform="uppercase" inner-padding="18px 10px" color="#ffffff" font-family="Montserrat, sans-serif" />
+    </mj-attributes>
+    <mj-style> body{ background: #ffffff; } .mobileView { display: none; } .desktopView { display: block; } .LeftColLink{ padding: 0 0 6px 10px !important; } .RightColLink{ padding: 0 10px 6px 0 !important; } .tagSection{ margin: 0 15px !important; } @media only screen and (max-width:480px){.LeftColLink{padding: 0 0 4px 4px !important;} .RightColLink{padding: 0 4px 4px 0 !important;} .mobileRightCol > table > tbody > tr > td, .mobileLeftCol > table > tbody > tr > td{padding:0 !important; } .btnBlock > table{ width:100% !important } .sectionPb30 > table > tbody > tr > td { padding-bottom: 0 !important; } .sectionHeading.big > div {font-size: 18px !important; } .sectionHeading > div {font-size: 16px !important; } .sectionHeadingTag > div {font-size: 12px !important; } .mobileView { display: block; } .desktopView { display: none; } .tagSection .mj-column-per-25{width:50% !important;} .btn a{font-size:12px !important; padding:10px 4px !important; width:140px !important;} .btn > table{width:140px !important;} .prices-tag > div > a { font-size:12px !important; padding:10px 4px !important;} .mj-link{font-size:12px !important;} .mobileText > div {font-size:12px !important;line-height: normal !important; }.Text16 > div {font-size:16px !important;line-height: normal !important; } .Text12 > div {font-size:12px !important;line-height: normal !important; }}</mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#ffffff">
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/" padding="20px 25px" width="300px" css-class="header-logo" target="_blank" align="center" alt="header-logo" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjy.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text css-class="sectionHeading big" mj-class="sectionHeading sectionHeadingBig" align="center"> ERFÜLLEN SIE SICH IHREN BETTENTRAUM</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="8px 10px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading" align="center">DESIGNERBETT AUPING ESSENTIAL KONFIGURIEREN UND <span style="color:#ff1616;">15% SPAREN!</span></mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/j2u.png" padding="10px 15px" align="center"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/designbetten/776/auping-designerbett-essential#de12dce24b60d0ac5cd9f519d5a7c2a3" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">HIER KONFIGURIEREN</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0 0 0">
+        <mj-column vertical-align="middle">
+          <mj-image padding="10px 15px" href="https://www.bettenritter.com/auping/?p=1&o=2&n=24" target="_blank" align="center" alt="img-2" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jj3.png">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">Das bestseller - bett</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column vertical-align="middle">
+          <mj-image href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jj4.png" padding="10px 15px" align="center"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2847/br-boxspringbett-basic-kapi?number=BR12604" target="_blank" mj-class="btn" css-class="btn" padding="10px 10px" align="center">HIER entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">KISSEN FÜR DEN NACKEN</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-1" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjo.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-2" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jj5.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-3" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jju.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-4" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjz.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 ">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1900/dormabell-nackenstuetzkissen-cervical-nb-5" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjt.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/1901/dormabell-nackenstuetzkissen-cervical-nb-6" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjg.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/?p=1&o=3&n=24&s=4" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">Mehr Entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px 20px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="15px 0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading">Weitere highlights</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 ">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/betten/komfort-funkti-onsbetten/1832/setangebot-komfortbett-coruna-inklusive-motorisiertem-rost-und-matratze#1707d32fef881d0208f7a23627ec6fef" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjh.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/betten/boxspringbetten/2888/tempur-boxspringbett-check-180-x-200-cm-mit-durchgehender-matratze-ausstellungsstueck" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jji.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 ">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/bettdecken/faserdecken/2191/dormabell-winterbettdecke-klimafaser-edition-wb-4" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjj.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/matratzen/kaltschaummatratzen/2569/dormabell-kaltschaummatratze-classic-s?number=BR12339" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjk.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 ">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/daunen-und-federn/2519/dormabell-kopfkissen-60-d" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjn.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/kopfkissen/daunen-und-federn/2520/dormabell-kopfkissen-90-d" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjq.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column css-class="mobileLeftCol" padding="0 ">
+            <mj-image padding="0" css-class="LeftColLink" align="center" href="https://www.bettenritter.com/unsere-marken/dormabell/876/dormabell-molton-matratzenau%1Fage-s-159?number=BR10706.11" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjr.png"></mj-image>
+          </mj-column>
+          <mj-column css-class="mobileRightCol" padding="0">
+            <mj-image padding="0" css-class="RightColLink" align="center" href="https://www.bettenritter.com/schlafen/bettdecken/daunendecken/2177/dormabell-winterdaunendecke-daunen-edition-wb-4" target="_blank" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jj7.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button href="https://www.bettenritter.com/schlafen/kopfkissen/nackenstuetzkissen/?p=1&o=3&n=24&s=4" target="_blank" css-class="btn" mj-class="btn" padding="10px 10px" align="center">Mehr Entdecken</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-divider padding="40px 15px 30px" border-width="2px" border-style="solid" border-color="#00766e" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text css-class="sectionHeading" mj-class="sectionHeading" padding-bottom="0">FREUDE VERSCHENKEN</mj-text>
+          <mj-text css-class="sectionHeadingTag" mj-class="sectionHeading sectionHeadingTag" padding-bottom="25px">MIT DEM GESCHENKGUTSCHEIN VON BETTEN RITTER </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="0 15px" inner-background-color="#F4F4F4">
+          <mj-image href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625" target="_blank" padding="25px 20px" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jj8.png"></mj-image>
+          <mj-text align="center" font-size="14px" font-weight="600"> BETRAG AUSWÄHLEN </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 10px 0 10px" background-color="#F4F4F4" css-class="tagSection">
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;
+                      font-family: Montserrat, sans-serif;
+                      font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625" target="_blank">25 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.2" target="_blank">50 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.4" target="_blank">75 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.6" target="_blank">100 €</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 10px 15px 10px" background-color="#f8f8fa" css-class="tagSection">
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.8" target="_blank">150 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.10" target="_blank">200 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.12" target="_blank">250 €</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text css-class="prices-tag" padding="6px 10px" align="center">
+            <a style="display: inline-block;background: #00766e;color: #ffffff;font-family: Montserrat, sans-serif; font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    margin: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 14px 0;
+    border-radius: 0px;width: 100%;" href="https://www.bettenritter.com/service/gutscheine/geschenkgutschein/795/geschenkgutschein-betten-ritter?number=BR10625.14" target="_blank">500 €</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="25px 15px" background-color="#ffffff">
+        <mj-column>
+          <mj-image href="https://www.bettenritter.com/" padding="20px 25px" width="300px" css-class="header-logo" target="_blank" align="center" alt="header-logo" src="https://016hh.mjt.lu/tplimg/016hh/b/1sv0y/jjy.png">
+          </mj-image>
+          <mj-text css-class="Text16" padding="15px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="700" line-height="24px" text-transform="capitalize">Telefon</mj-text>
+          <mj-text css-class="mobileText" padding="10px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="300" line-height="26px" text-transform="uppercase" letter-spacing="2px">
+            <a href="tel:0721 494570" style="color: #9b9c9e;text-decoration: none;">0721 494570</a>
+          </mj-text>
+          <mj-text css-class="Text16" padding="15px 0 0 10px" align="center" color="#000" align="center" font-size="18px" font-weight="700" line-height="24px" text-transform="capitalize">Öffnungszeiten</mj-text>
+          <mj-text css-class="mobileText" padding="10px 0 0 10px" align="center" color="#9b9c9e" align="center" font-size="18px" font-weight="300" line-height="26px" text-transform="capitalize" letter-spacing="4px"> Montag - Freitag von 9:30 - 19:00 Uhr Samstag von 10:00 - 17:00 Uhr </mj-text>
+          <mj-divider padding="40px 15px 30px" border-width="2px" border-style="solid" border-color="#00766e" />
+          <mj-text padding="0 0 0 10px" align="center" color="#000" align="center" font-size="16px" font-weight="600" line-height="24px" text-transform="capitalize">Folgen Sie Uns</mj-text>
+          <mj-social font-size="16px" padding="0" icon-size="25px" mode="horizontal">
+            <mj-social-element padding="15px 20px" href="https://www.instagram.com/betten_ritter_karlsruhe/" background-color="#000" name="instagram">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.facebook.com/BettenRitterGmbh" background-color="#000" name="facebook">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.pinterest.com/bettenritter/_created/" background-color="#000" name="pinterest">
+            </mj-social-element>
+            <mj-social-element padding="15px 20px" href="https://www.youtube.com/channel/UCNh3D1xekc_o47Skbl-eTSw" background-color="#000" name="youtube">
+            </mj-social-element>
+          </mj-social>
+          <mj-divider padding="25px 15px 20px" border-width="2px" border-style="solid" border-color="#00766e" />
+          <mj-text css-class="Text12" padding="0 15px" letter-spacing="2px" align="center" font-weight="600" align="center" font-size="14px" line-height="24px">Newsletter <a href="#" style="color:#000">abmelden</a></mj-text>
+          <mj-navbar>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/impressum" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Impressum |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/datenschutz" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Datenschutz |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/kontaktformular?forceMail=1" letter-spacing="2px" target="_blank" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-weight="600" font-size="14px" color="#000">Kontakt |</mj-navbar-link>
+            <mj-navbar-link padding-right="0" href="https://www.bettenritter.com/account" target="_blank" letter-spacing="2px" padding="4px 10px" text-decoration="none" text-transform="capitalize" font-size="14px" font-weight="600" color="#000">Mein Konto</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

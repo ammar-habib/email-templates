@@ -1,58 +1,16 @@
 <mj-head>
-    <mj-title>Emails</mj-title>
-    <mj-font name="Montserrat, sans-serif" href="https://fonts.googleapis.com/css2&family=Montserrat:wght@400;500;600;700&display=swap"/>
-    <mj-attributes>
-        <mj-all font-size="16px" line-height="25px" font-family="Montserrat, sans-serif" color="#2b2b23"/>
-        <mj-class name="sectionHeading" font-family="Montserrat, sans-serif" font-weight="400" font-size="28px" line-height="normal"
-                  color="#2b2b23;" align="center" padding="10px 8px" text-transform="uppercase"/>
-       <mj-class name="sectionHeadingBig" font-size="35px" color="#00766e"/>
-        <mj-class name="btn" font-weight="400" font-size="16px" line-height="20px" background-color="#00766e"
-                  border-radius="0px" text-transform="uppercase" inner-padding="18px 10px" color="#ffffff"
-                   font-family="Montserrat, sans-serif"/>
-    </mj-attributes>
-    <mj-style>
-      body{
-      background: whitesmoke;
-      }
-        .secionHeadingBig{
-         font-size: 35px;
-        }
-        .mobileView {
-        display: none;
-        }
-        .desktopView {
-        display: block;
-        }
-        .LeftColLink{
-         padding: 0 0 8px 25px !important;
-      }
-       .RightColLink{
-         padding: 0 25px 8px 0 !important;
-      }
-        @media only screen and (max-width:480px){
-        .mobileRightCol > table > tbody > tr > td, .mobileLeftCol > table > tbody > tr > td{
-        padding: 0 0 10px !important;
-        }
-        .btnBlock > table{
-        width:100% !important
-        }
-        .sectionPb30 > table > tbody > tr > td {
-        padding-bottom: 0 !important;
-        }
-        .centerSecionHeading{
-       
-        }
-       
-        .mobileView {
-        display: block;
-        }
-        .desktopView {
-        display: none;
-        }
-        
-        .mobileRightCol.noisyTopRightSecion > table > tbody > tr > td {
-        padding: 30px 20px !important;
-        }
-        }
-    </mj-style>
+  <mj-title>Betten Ritter</mj-title>
+  <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" />
+  <mj-attributes>
+    <mj-all font-size="16px" line-height="25px" font-family="Montserrat, sans-serif" color="#2b2b23" font-weight="400" />
+    <mj-class name="sectionHeading" font-family="Montserrat, sans-serif" font-weight="600" font-size="26px" line-height="normal" color="#2b2b23;" align="center" padding="10px 10px" text-transform="uppercase" letter-spacing="2px" />
+    <mj-class name="sectionHeadingBig" font-size="30px" color="#00766e"/>
+    <mj-class name="sectionHeadingTag" font-size="16px"/>
+    <mj-class name="btn" width="215px" font-weight="400" font-size="16px" line-height="20px" background-color="#00766e" border-radius="0px" text-transform="uppercase" inner-padding="18px 10px" color="#ffffff" font-family="Montserrat, sans-serif" />
+  </mj-attributes>
+  <mj-style> body{ background: #ffffff; } .mobileView { display: none; } .desktopView { display: block; } .LeftColLink{ padding: 0 0 6px 10px !important; } .RightColLink{ padding: 0 10px 6px 0 !important; } .tagSection{ margin: 0 15px !important; } @media only screen and (max-width:480px){.LeftColLink{padding: 0 0 4px 4px !important;} .RightColLink{padding: 0 4px 4px 0 !important;} .mobileRightCol > table > tbody > tr > td, .mobileLeftCol > table > tbody > tr > td{padding:0 !important; } .btnBlock > table{ width:100% !important } .sectionPb30 > table > tbody > tr > td { padding-bottom: 0 !important; } .sectionHeading.big > div {font-size: 18px !important; } .sectionHeading > div {font-size: 16px !important; } .sectionHeadingTag > div {font-size: 12px !important; } .mobileView { display: block; } .desktopView { display: none; } .tagSection .mj-column-per-25{width:50% !important;} .btn a{font-size:12px !important; 
+    padding:10px 4px !important; width:140px !important;} .btn > table{width:140px !important;} .prices-tag > div > a { font-size:12px !important; padding:10px 4px !important;} .mj-link{font-size:12px !important;} .mobileText > div {font-size:12px !important;line-height: normal !important;
+}.Text16 > div {font-size:16px !important;line-height: normal !important;
+} .Text12 > div {font-size:12px !important;line-height: normal !important;
+}}</mj-style>
 </mj-head>
