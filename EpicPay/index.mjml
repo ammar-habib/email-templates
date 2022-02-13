@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-title>Reveal-al</mj-title>
+    <mj-font name="Barlow" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400,600,700&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Barlow, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b" />
+    </mj-attributes>
+    <mj-style> .mobileView { display: none; } .desktopView { display: block;}@media only screen and (max-width:480px){ .mobileView { display: block; } .desktopView { display: none !important; }} </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper full-width padding="0" background-color="#F7F7F7">
+      <mj-section background-color="#ffffff">
+        <mj-column vertical-align="middle">
+          <mj-image width="140px" href="#" align="left" alt="header-logo" src="#">
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="10px 0 10px">
+        <mj-column>
+          <mj-text align="center" font-size="24px" padding="10px 15px" font-weight="700" color="#000" line-height="22px">Thank You for Your Donation!</mj-text>
+          <mj-text align="center" font-size="16px" padding="10px 15px" font-weight="400" color="#838383" line-height="22px">You have helped us continue our mission in a meaningful way.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 50px">
+        <mj-column vertical-align="middle" background-color="#ffffff">
+          <mj-text padding="0" font-size="14px" align="center">
+            <div style="background-color: white; padding:20px 0; width:100%; 
+   border-radius: 5px; display: inline-block; text-align:center;vertical-align: middle;">
+              <div>You have deonated</div>
+              <div style="color: #000; font-size: 30px; font-weight:600; margin-top:10px;">$25.00</div>
+              <div style="margin:10px 0;">To</div>
+              <div style="color: #000; font-size: 20px; font-weight:600; margin: 0;">Build for Hope</div>
+            </div>
+          </mj-text>
+          <mj-table align="center">
+            <tr style="border-bottom: 1px solid lightgrey;">
+              <td style="padding: 10px 0;">Charged Amount</td>
+              <td style="padding: 10px 0; text-align:right">$25.00</td>
+            </tr>
+            <tr style="border-bottom: 1px solid lightgrey;">
+              <td style="padding: 10px 0;">Charged Amount</td>
+              <td style="padding: 10px 0; text-align:right">$25.00</td>
+            </tr>
+            <tr style="border-bottom: 1px solid lightgrey;">
+              <td style="padding: 10px 0;">Charged Amount</td>
+              <td style="padding: 10px 0; text-align:right">$25.00</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-spacer height="40px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 50px">
+        <mj-column vertical-align="middle" background-color="#ffffff">
+          <mj-text padding="15px 20px" font-size="16px" font-weight="600">
+            <a href="#" style="color: #000; text-decoration:none;"> Manage Your Donation <div style="color: #838383;font-weight: 400;font-size: 14px;">Login or create an account</div>
+            </a>
+          </mj-text>
+          <mj-text padding="15px 20px" font-size="16px" font-weight="600">
+            <a href="#" style="color: #000; text-decoration:none;"> Questions? <div style="color: #838383;font-weight: 400;font-size: 14px;">Click here to visit our support center</div>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-spacer height="40px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="30px" background-color="#333333">
+        <mj-column vertical-align="middle">
+          <mj-navbar>
+            <mj-navbar-link padding="4px 8px" font-size="12px" text-transform="capitalize" href="#" color="#ffffff">ChurchName</mj-navbar-link>
+            <mj-navbar-link padding="4px 8px" font-size="12px" text-transform="capitalize" href="#" color="#ffffff">ChurchPhone</mj-navbar-link>
+            <mj-navbar-link padding="4px 8px" font-size="12px" text-transform="capitalize" href="#" color="#ffffff">ChurchWeb</mj-navbar-link>
+          </mj-navbar>
+          <mj-text align="center" color="#fff" padding="0" font-size="12px"> © 2021 Church Base Giving </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
