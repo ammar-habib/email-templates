@@ -1,0 +1,100 @@
+<mjml>
+    <mj-head>
+        <mj-title>Game of the year</mj-title>
+        <mj-font name="Poppins"
+                 href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"/>
+        <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"/>
+        <mj-attributes>
+            <mj-all font-family="Poppins, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b"/>
+            <mj-class name="heading" font-weight="600" font-size="22px" line-height="30px"/>
+            <mj-class name="btn" font-weight="400" font-size="16px" line-height="24px" background-color="#ffffff"
+                      border="1px solid #D6D6D8" border-radius="0" inner-padding="8px 22px" color="#221f20"/>
+        </mj-attributes>
+        <mj-style>
+            <mj-style> @font-face {
+                font-family  : "markpro";
+                font-style   : normal;
+                font-weight  : 400;
+                font-display : swap;
+                src          : url("http://show-demo.herokuapp.com/found-factorty/fonts/MarkPro.ttf") format("truetype");
+            } </mj-style>
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-wrapper full-width padding="0 40px" background-color="#000">
+            <mj-section padding="65px 0 85px">
+                <mj-column>
+                    <mj-text padding="0" align="center" text-transform="uppercase" font-family="po, Arial"
+                             font-weight="400" font-size="143px" line-height="123px" color="#e51e1f">Game<br>
+                        <span style="color:#fff; font-size: 123px; line-height: 101px">of the</span><br>
+                        Year
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column vertical-align="middle">
+                    <mj-text padding="0" font-family="Poppins, Arial" font-size="23px" line-height="1.33" color="#fff"
+                             font-weight="300" vertical-align="top">Get ready for thrilling spins, big wins, and
+                        exclusive rewards. Don’t miss your chance to play this hot pick—spin now and hit it big!
+                    </mj-text>
+                </mj-column>
+                <mj-column vertical-align="middle">
+                    <mj-image padding="0" src="/img/get.png"></mj-image>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text padding="0" font-family="Poppins, Arial" font-size="16px" font-weight="300"
+                             line-height="1.5" color="#fff">
+                        <strong>Brawler’s Bar</strong>
+                        is a thrilling slot game set in a rowdy, action-packed tavern where fierce brawls and big wins
+                        collide! With dynamic features, wild symbols, and explosive bonuses, every spin brings the
+                        excitement of a barroom showdown. Step into the fight, test your luck, and claim your rewards!
+                        🍻🥊💰
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-group>
+                    <mj-column width="50%">
+                        <mj-button align="left" padding="0" font-size="28px" font-weight="normal"
+                                   inner-padding="20px 40px" border-radius="8px" background-color="#ee302e"
+                                   color="#fff">
+                            play now
+                        </mj-button>
+                    </mj-column>
+                    <mj-column width="50%">
+                        <mj-social padding="0" align="right" icon-padding="10px" mode="horizontal">
+                            <mj-social-element src="img/fbIcon.png" alt="facebook" icon-size="36px"
+                                               href="https://mjml.io/">
+                            </mj-social-element>
+                            <mj-social-element src="img/instaIcon.png" alt="legal" icon-size="36px"
+                                               href="https://mjml.io/">
+                            </mj-social-element>
+                        </mj-social>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text padding="0" font-size="60px" line-height="1.5" text-transform="uppercase" color="#ed2f2d"
+                             align="center">hot & TRENDING
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section>
+                <mj-column>
+                    <mj-text font-size="14px" line-height="20px" css-class="">If you have questions, our amazing team of
+                        experts will get right back to you.
+                        <a href="#" style="color: #42474b">Contact us</a>
+                        for more info.
+                    </mj-text>
+                    <mj-text font-size="14px" line-height="20px" font-weight="600" css-class="">Kind Regards.
+                        <br/>
+                        Cosmic Team
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
