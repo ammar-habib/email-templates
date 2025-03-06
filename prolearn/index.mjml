@@ -11,10 +11,10 @@
     <mj-wrapper full-width padding="0" background-color="#ffffff">
       <mj-section padding="20px 0 30px">
         <mj-column border-right="1px solid #aba4a4">
-          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/prolearn.png" width="350px" align="center"></mj-image>
+          <mj-image href="#" target="_blank" src="img/prolearn.png" width="350px" align="center"></mj-image>
         </mj-column>
         <mj-column>
-          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/logo-2.png" width="350px" align="center"></mj-image>
+          <mj-image href="#" target="_blank" src="img/logo-2.png" width="350px" align="center"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section padding="0">
@@ -26,7 +26,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="40%" inner-background-color="#00384A" inner-border="1px solid #bcbbbb" padding="10px 25px" vertical-align="middle">
-          <mj-image padding="20px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/Pennsylvania_Medical_Society.png" align="center"></mj-image>
+          <mj-image padding="20px 10px" href="#" target="_blank" src="img/Pennsylvania_Medical_Society.png" align="center"></mj-image>
         </mj-column>
         <mj-column width="60%" vertical-align="middle">
           <mj-text css-class="col-right-content" padding="0px 25px 0 0" font-family="Poppins, Arial" font-weight="600"> The Pennsylvania Medical Society </mj-text>
@@ -40,7 +40,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column vertical-align="middle" width="40%" inner-background-color="#ffffff" inner-border="1px solid #bcbbbb" padding="10px 25px">
-          <mj-image padding="0 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/ISMA.png" align="center"></mj-image>
+          <mj-image padding="0 10px" href="#" target="_blank" src="img/ISMA.png" align="center"></mj-image>
         </mj-column>
         <mj-column vertical-align="middle" width="60%">
           <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">The Indiana State Medical Association </mj-text>
@@ -54,7 +54,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="40%" css-class="desktopView">
-          <mj-image href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/img5.png" align="center"></mj-image>
+          <mj-image href="#" target="_blank" src="img/img5.png" align="center"></mj-image>
         </mj-column>
         <mj-column width="60%">
           <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">American Association of Hipand Knee Surgeons</mj-text>
@@ -68,7 +68,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="40%" vertical-align="middle" inner-background-color="#ffffff" inner-border="1px solid #bcbbbb" padding="10px 25px">
-          <mj-image padding="16px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/ACBA.png" align="center"></mj-image>
+          <mj-image padding="16px 10px" href="#" target="_blank" src="img/ACBA.png" align="center"></mj-image>
         </mj-column>
         <mj-column width="60%" vertical-align="middle">
           <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">Alameda County Bar Association</mj-text>
@@ -82,7 +82,7 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column width="40%" vertical-align="middle" inner-background-color="#121111" inner-border="1px solid #121111" padding="10px 25px">
-          <mj-image padding="14px 10px" href="#" target="_blank" src="https://appblogspot.com/Learnapalooza/img4.png" align="center"></mj-image>
+          <mj-image padding="14px 10px" href="#" target="_blank" src="img/img4.png" align="center"></mj-image>
         </mj-column>
         <mj-column width="60%" vertical-align="middle">
           <mj-text css-class="col-right-content" padding="10px 25px 0 0" font-family="Poppins, Arial" font-weight="600">Alabama State Bar</mj-text>
@@ -96,17 +96,17 @@
       </mj-section>
       <mj-section padding="0">
         <mj-column vertical-align="top">
-          <mj-image css-class="left-col" padding-bottom="0" src="https://appblogspot.com/Learnapalooza/cost_icon.png" width="65px" align="left"></mj-image>
+          <mj-image css-class="left-col" padding-bottom="0" src="img/cost_icon.png" width="65px" align="left"></mj-image>
           <mj-text css-class="left-col" align="left" font-family="Poppins, Arial" font-weight="700" font-size="18px" color="#214b90">Cost </mj-text>
           <mj-text css-class="left-col" align="left" font-family="Poppins, Arial" align="left" font-size="14px" line-height="1.286" font-weight="600">We're 50% less than almost any other LMS at our level - and still better in terms of features. </mj-text>
         </mj-column>
         <mj-column vertical-align="top">
-          <mj-image css-class="center-col" src="https://appblogspot.com/Learnapalooza/live_icon.png" width="65px" align="left"></mj-image>
+          <mj-image css-class="center-col" src="img/live_icon.png" width="65px" align="left"></mj-image>
           <mj-text css-class="center-col" font-family="Poppins, Arial" font-weight="700" align="left" font-size="18px" color="#214b90">Instantly Live </mj-text>
           <mj-text css-class="center-col" align="left" font-family="Poppins, Arial" font-size="14px" line-height="1.286" font-weight="600">With our drag and drop features, you can create a course in minutes and have it available for your learners instantly. Hosting a live event? With one click you can turn it into an on-demand course. </mj-text>
         </mj-column>
         <mj-column vertical-align="top">
-          <mj-image css-class="right-col" src="https://appblogspot.com/Learnapalooza/zoom_icon.png" width="65px" align="left"></mj-image>
+          <mj-image css-class="right-col" src="img/zoom_icon.png" width="65px" align="left"></mj-image>
           <mj-text css-class="right-col" font-family="Poppins, Arial" font-weight="700" align="left" font-size="18px" color="#214b90">Zoom Integration</mj-text>
           <mj-text css-class="right-col" align="left" font-family="Poppins, Arial" font-size="14px" line-height="1.286" font-weight="600">Seamless integration with Zoom meeting/webinar. Host your conferences online and get special features for attendance tracking and more. </mj-text>
         </mj-column>

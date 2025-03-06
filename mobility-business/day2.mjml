@@ -24,7 +24,7 @@
                     <mj-text css-class="header" align="center" font-family="Poppins, Arial" font-size="24px" line-height="32px"
                              color="#ffffff" padding="30px 15px">
                         <div class="header-logo" style="display: inline-block;margin-right: 10px;">
-                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/logo.png"
+                            <img src="img/logo.png"
                                  alt="logo">
                         </div>
                         <div class="xs-center" style="display: inline-block;text-align:left;"> Mobility Business<br/>
@@ -44,7 +44,7 @@
                     <mj-text font-size="12px" font-weight="500" line-height="28px">
                         <ul style="padding-left: 0; list-style: none; vertical-align: middle;">
                             <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 70px;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_completed.png"
+                                <img src="img/goal_completed.png"
                                      alt="goal_completed">
                                 <div style="margin-bottom:4px;">Day 1</div>
                             </li>
@@ -52,7 +52,7 @@
                                 <span style="width: 80px; display: inline-block; height: 4px; background: #1270e3; vertical-align: middle;"></span>
                             </li>
                             <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty.png"
+                                <img src="img/goal_empty.png"
                                      alt="goal_empty">
                                 <div style="margin-bottom:4px;">Day 2</div>
                             </li>
@@ -60,7 +60,7 @@
                                 <span style="width: 80px; display: inline-block; height: 4px; background: #e6e6e6; vertical-align: middle;"></span>
                             </li>
                             <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty_full.png"
+                                <img src="img/goal_empty_full.png"
                                      alt="goal_empty_full">
                                 <div style="margin-bottom:4px;">Day 3</div>
                             </li>
@@ -68,7 +68,7 @@
                                 <span style="width: 80px; display: inline-block; height: 4px; background: #e6e6e6; vertical-align: middle;"></span>
                             </li>
                             <li style="margin: 0; display: inline-block; text-align:center; vertical-align: middle; height: 70px;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty_full.png"
+                                <img src="img/goal_empty_full.png"
                                      alt="goal_empty_full">
                                 <div style="margin-bottom:4px;">Day 4</div>
                             </li>
@@ -76,7 +76,7 @@
                                 <span style="width: 80px; display: inline-block; height: 4px; background: #e6e6e6; vertical-align: middle;"></span>
                             </li>
                             <li style="margin: 0; display: inline-block; text-align:center;vertical-align: middle; height: 70px;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/goal_empty_full.png"
+                                <img src="img/goal_empty_full.png"
                                      alt="goal_empty_full">
                                 <div style="margin-bottom:4px;">Day 5</div>
                             </li>
@@ -104,7 +104,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 1<br/>
@@ -118,7 +118,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 2<br/>
@@ -134,7 +134,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 3<br/>
@@ -148,7 +148,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 4<br/>
@@ -164,7 +164,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 5<br/>
@@ -178,7 +178,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 6<br/>
@@ -194,7 +194,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block;text-align:left;float: right;width: 85%;">Lesson 7<br/>
@@ -208,7 +208,7 @@
                              padding-right="15px">
                         <a href="#" target="_blank" style="text-decoration: none;color:#42474b">
                             <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                                <img src="img/play-circle.png"
                                      alt="logo">
                             </div>
                             <div style="display: inline-block; text-align:left;float: right;width: 85%;">Lesson 8<br/>
@@ -222,7 +222,7 @@
                 <mj-column>
                     <mj-text font-weight="500" vertical-align="top">
                         <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/resources_illustration.png"
+                            <img src="img/resources_illustration.png"
                                  alt="logo">
                         </div>
                         <div style="display: inline-block; text-align:left;;width: 80%;">Daily Resources, Documents and
@@ -232,7 +232,7 @@
                     <mj-button align="center" href="#" target="_blank" inner-padding="12px 25px" border-radius="6px"
                                background-color="#1270e3" color="#ffffff">
                         <div class="desktopView" style="display: inline-block;margin-right: 15px; vertical-align: top;">
-                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/play-circle.png"
+                            <img src="img/play-circle.png"
                                  alt="logo">
                         </div>
                         <div style="display: inline-block;"> Start Day 2 Now - How To Earn</div>
@@ -251,7 +251,7 @@
                     </mj-text>
                     <mj-text css-class="std-section">
                         <div style="display: inline-block;margin-right: 10px; vertical-align: top;">
-                            <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/left_double_quote.png"
+                            <img src="img/left_double_quote.png"
                                  alt="logo">
                         </div>
                         <div style="display: inline-block;width:88%;">It may seem silly but I was convinced that the
@@ -259,7 +259,7 @@
                             eye opening to realize how many opportunities there are to earn from mobility. I like the
                             concept of a hub business too. Earn more with the same vehicles. Cool! <span
                                     style="margin-left: 10px;">
-                <img src="https://csmc-asset.s3-us-west-2.amazonaws.com/csmc-mail/assets/right_double_quote.png"
+                <img src="img/right_double_quote.png"
                      alt="logo">
               </span>
                             <div style="font-weight: 500;padding-top: 10px;">Ragnar T. - Norway</div>

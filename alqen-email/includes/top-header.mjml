@@ -1,7 +1,7 @@
 <mj-section css-class="header" background-url="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/19bc25ed-8706-42fb-871e-71fe0c27ec79.png" background-color="#7C4FFF"
             background-size="cover" background-repeat="no-repeat">
     <mj-column vertical-align="middle">
-        <mj-image width="140px" css-class="xs-center header-logo" href="#" align="left" alt="header-logo"  src="https://mcusercontent.com/1081c3c6089bfb0e75c18ad54/images/22846123-91b4-45e3-adaf-781ad2d9c814.png">
+        <mj-image width="140px" css-class="xs-center header-logo" href="#" align="left" alt="header-logo"  src="img/logo-text.png">
         </mj-image>
     </mj-column>
     <mj-column vertical-align="middle" css-class="xsHide">

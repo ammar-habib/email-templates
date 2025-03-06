@@ -14,7 +14,7 @@
     <mj-wrapper full-width padding="0" background-color="#ffffff">
       <mj-section padding="0">
         <mj-column>
-          <mj-image padding="0" src="img/header.png"></mj-image>
+          <mj-image padding="0" src="/img/header.png"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section padding="0">

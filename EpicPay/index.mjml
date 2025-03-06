@@ -11,7 +11,7 @@
     <mj-wrapper full-width padding="0" background-color="#F7F7F7">
       <mj-section background-color="#ffffff">
         <mj-column vertical-align="middle">
-          <mj-image width="140px" href="#" align="left" alt="header-logo" src="#">
+          <mj-image width="140px" href="#" align="left" alt="header-logo" src="img/reveal_logo.png">
           </mj-image>
         </mj-column>
       </mj-section>
