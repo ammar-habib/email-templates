@@ -1,0 +1,467 @@
+<mjml>
+  <mj-head>
+    <mj-title>Game of the Week</mj-title>
+
+    <!-- Fonts -->
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" />
+    <mj-font name="Manrope" href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" />
+
+    <!-- Default Attributes -->
+    <mj-attributes>
+      <mj-all font-family="Poppins, Arial" font-size="16px" font-weight="400" line-height="24px" color="#42474b" />
+      <mj-class name="mainHeading" font-family="'EuclidFlex', 'Manrope', Arial, sans-serif" font-size="180px" line-height="145px" color="#ed2f2d" />
+      <mj-class name="ofThe" font-family="'EuclidFlex', 'Manrope', Arial, sans-serif" font-size="145px" line-height="130px" />
+      <mj-class name="headingTwo" font-family="'EuclidFlex', 'Manrope', Arial, sans-serif" font-size="62px" line-height="70px" color="#ed2f2d" />
+      <mj-class name="headingThree" font-family="'EuclidFlex', 'Manrope', Arial, sans-serif" font-size="24px" />
+      <mj-class name="getReadyContent" font-size="24px" line-height="1.33" />
+      
+      
+    </mj-attributes>
+
+    <!-- Custom Fonts -->
+    <mj-style>
+      @font-face {
+        font-family: 'EuclidFlex';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url("https://storage.googleapis.com/testfont/EuclidFlex-Regular.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: 'EuclidFlex';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url("https://storage.googleapis.com/testfont/EuclidFlex-Bold.ttf") format("truetype");
+      }
+    </mj-style>
+
+    <!-- Responsive Styles -->
+    <mj-style inline="inline">
+      /* Main Styles */
+      .mainHeading {
+        font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif !important;
+        font-size: 180px !important;
+        line-height: 145px !important;
+        color: #ed2f2d !important;
+      }
+      .ofThe {
+        font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif !important;
+        font-size: 145px !important;
+        line-height: 130px !important;
+      }
+      .headingTwo {
+        font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif !important;
+        font-size: 62px !important;
+        line-height: 70px !important;
+        color: #ed2f2d !important;
+      }
+      .headingThree {
+        font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif !important;
+        font-size: 24px !important;
+      }
+      .getReadyContent {
+        font-size: 24px !important;
+        line-height: 1.33 !important;
+      }
+      .playBtn {
+        font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif !important;
+      }
+
+      /* Gmail-specific targeting */
+      [data-ogsc] .mainHeading,
+      [data-ogsb] .mainHeading {
+        font-family: 'Manrope', Arial, sans-serif !important;
+        font-size: 160px !important;
+        line-height: 130px !important;
+      }
+      [data-ogsc] .ofThe,
+      [data-ogsb] .ofThe {
+        font-family: 'Manrope', Arial, sans-serif !important;
+        font-size: 130px !important;
+        line-height: 115px !important;
+      }
+      [data-ogsc] .headingTwo,
+      [data-ogsb] .headingTwo {
+        font-family: 'Manrope', Arial, sans-serif !important;
+        font-size: 58px !important;
+        line-height: 65px !important;
+      }
+      [data-ogsc] .headingThree,
+      [data-ogsb] .headingThree {
+        font-family: 'Manrope', Arial, sans-serif !important;
+      }
+      [data-ogsc] .playBtn,
+      [data-ogsb] .playBtn {
+        font-family: 'Manrope', Arial, sans-serif !important;
+      }
+    </mj-style>
+
+    <!-- Media Queries -->
+    <mj-style>
+      @media only screen and (max-width: 599px) {
+        .mainHeading {
+          font-size: 175px !important;
+          line-height: 135px !important;
+        }
+        .ofThe {
+          font-size: 145px !important;
+          line-height: 120px !important;
+        }
+        .headingTwo {
+          font-size: 60px !important;
+          line-height: 60px !important;
+        }
+        [data-ogsc] .mainHeading,
+        [data-ogsb] .mainHeading {
+          font-size: 155px !important;
+          line-height: 125px !important;
+        }
+        [data-ogsc] .ofThe,
+        [data-ogsb] .ofThe {
+          font-size: 125px !important;
+          line-height: 110px !important;
+        }
+        [data-ogsc] .headingTwo,
+        [data-ogsb] .headingTwo {
+          font-size: 56px !important;
+          line-height: 56px !important;
+        }
+      }
+    </mj-style>
+
+    <mj-style>
+      @media only screen and (max-width: 560px) {
+        .mainHeading {
+          font-size: 138px !important;
+          line-height: 135px !important;
+          color: #ed2f2d !important;
+        }
+        .ofThe {
+          font-size: 110px !important;
+          line-height: 85px !important;
+        }
+        .headingTwo {
+          font-size: 48px !important;
+        }
+        [data-ogsc] .mainHeading,
+        [data-ogsb] .mainHeading {
+          font-size: 128px !important;
+          line-height: 125px !important;
+        }
+        [data-ogsc] .ofThe,
+        [data-ogsb] .ofThe {
+          font-size: 100px !important;
+          line-height: 80px !important;
+        }
+        [data-ogsc] .headingTwo,
+        [data-ogsb] .headingTwo {
+          font-size: 44px !important;
+        }
+      }
+    </mj-style>
+
+    <mj-style>
+      @media only screen and (max-width: 480px) {
+        .headingThree {
+          font-size: 18px !important;
+        }
+        .getReadyContent {
+          font-size: 18px !important;
+          line-height: 1.3 !important;
+        }
+        .playBtn a {
+          font-size: 24px !important;
+          padding: 16px 30px !important;
+        }
+        .socialItem td {
+          padding: 4px !important;
+        }
+        .mainWrapper > table > tbody > tr > td {
+          padding: 0 16px !important;
+        }
+        .gamesList .mj-column-per-25 {
+          width: 50% !important;
+          margin-bottom: 12px;
+        }
+        .gamesList__img td {
+          width: 100% !important;
+        }
+        [data-ogsc] .getReadyContent,
+        [data-ogsb] .getReadyContent {
+          font-size: 17px !important;
+        }
+        [data-ogsc] .playBtn a,
+        [data-ogsb] .playBtn a {
+          font-size: 22px !important;
+        }
+      }
+    </mj-style>
+
+    <mj-style>
+      @media only screen and (max-width: 425px) {
+        .mainHeading {
+          font-size: 120px !important;
+          line-height: 100px !important;
+        }
+        .ofThe {
+          font-size: 100px !important;
+        }
+        .headingThree {
+          font-size: 16px !important;
+        }
+        .headingTwo {
+          font-size: 40px !important;
+        }
+        [data-ogsc] .mainHeading,
+        [data-ogsb] .mainHeading {
+          font-size: 110px !important;
+          line-height: 90px !important;
+        }
+        [data-ogsc] .ofThe,
+        [data-ogsb] .ofThe {
+          font-size: 90px !important;
+          line-height: 80px !important;
+        }
+        [data-ogsc] .headingTwo,
+        [data-ogsb] .headingTwo {
+          font-size: 38px !important;
+        }
+        [data-ogsc] .headingThree,
+        [data-ogsb] .headingThree {
+          font-size: 15px !important;
+        }
+      }
+    </mj-style>
+
+    <mj-style>
+      @media only screen and (max-width: 375px) {
+        .mainHeading {
+          font-size: 100px !important;
+          line-height: 80px !important;
+        }
+        .ofThe {
+          font-size: 85px !important;
+        }
+        .headingTwo {
+          font-size: 35px !important;
+        }
+        .headingThree {
+          font-size: 14px !important;
+        }
+        .socialItem td {
+          padding: 2px !important;
+        }
+        .getReadyContent {
+          font-size: 16px !important;
+        }
+        [data-ogsc] .mainHeading,
+        [data-ogsb] .mainHeading {
+          font-size: 90px !important;
+          line-height: 75px !important;
+        }
+        [data-ogsc] .ofThe,
+        [data-ogsb] .ofThe {
+          font-size: 75px !important;
+          line-height: 65px !important;
+        }
+        [data-ogsc] .headingTwo,
+        [data-ogsb] .headingTwo {
+          font-size: 32px !important;
+        }
+        [data-ogsc] .getReadyContent,
+        [data-ogsb] .getReadyContent {
+          font-size: 15px !important;
+        }
+      }
+    </mj-style>
+
+    <mj-style>
+      @media only screen and (max-width: 320px) {
+        .mainHeading {
+          font-size: 80px !important;
+          line-height: 70px !important;
+        }
+        .ofThe {
+          font-size: 80px !important;
+        }
+        .headingTwo {
+          font-size: 30px !important;
+          line-height: 45px !important;
+        }
+        .headingThree {
+          font-size: 12px !important;
+        }
+        .socialItem td {
+          padding: 2px !important;
+        }
+        .getReadyContent {
+          font-size: 14px !important;
+        }
+        .playBtn a {
+          font-size: 20px !important;
+          padding: 16px 18px !important;
+          line-height: 12px;
+        }
+        [data-ogsc] .mainHeading,
+        [data-ogsb] .mainHeading {
+          font-size: 70px !important;
+          line-height: 60px !important;
+        }
+        [data-ogsc] .ofThe,
+        [data-ogsb] .ofThe {
+          font-size: 70px !important;
+          line-height: 60px !important;
+        }
+        [data-ogsc] .headingTwo,
+        [data-ogsb] .headingTwo {
+          font-size: 28px !important;
+          line-height: 40px !important;
+        }
+        [data-ogsc] .headingThree,
+        [data-ogsb] .headingThree {
+          font-size: 11px !important;
+        }
+        [data-ogsc] .getReadyContent,
+        [data-ogsb] .getReadyContent {
+          font-size: 13px !important;
+        }
+        [data-ogsc] .playBtn a,
+        [data-ogsb] .playBtn a {
+          font-size: 18px !important;
+          padding: 14px 16px !important;
+          line-height: 10px !important;
+        }
+      }
+    </mj-style>
+    
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper css-class="mainWrapper" full-width padding="0 30px" background-color="#000">
+      <!-- Header Section -->
+      <mj-section padding="35px 0 30px">
+        <mj-column>
+          <mj-text padding="0" align="center" text-transform="uppercase" color="#e51e1f" font-weight="700">
+            <div class="mainHeading">
+              <span style="display: block">Game</span>
+              <span class="ofThe" style="color:#fff; display: block">of the</span> Week
+            </div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Game Introduction Section -->
+      <mj-section padding="20px 0 0">
+        <mj-group>
+          <mj-column width="65%" vertical-align="middle">
+            <mj-text padding="0 0 10px" font-family="Poppins, Arial" font-size="24px" line-height="1.33" color="#fff" font-weight="300" vertical-align="top">
+              <div class="getReadyContent">
+                Get ready for thrilling spins, big wins, and exclusive rewards. Don't miss your chance to play this hot pick—spin now and hit it big!
+              </div>
+            </mj-text>
+          </mj-column>
+          <mj-column width="35%" vertical-align="middle">
+            <mj-image padding="0" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/games/gotw-image.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- Game Description Section -->
+      <mj-section padding="20px 0 30px">
+        <mj-column>
+          <mj-text padding="0" font-family="Poppins, Arial" font-size="16px" font-weight="300" line-height="23px" color="#fff">
+            <strong>Brawler's Bar</strong> is a thrilling slot game set in a rowdy, action-packed tavern where fierce brawls and big wins collide! With dynamic features, wild symbols, and explosive bonuses, every spin brings the excitement of a barroom showdown. Step into the fight, test your luck, and claim your rewards! 🍻🥊💰
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- CTA and Social Section -->
+      <mj-section>
+        <mj-group css-class="playnowDiv">
+          <mj-column width="65%">
+            <mj-button css-class="playBtn" href="#" align="left" padding="0" font-size="28px" line-height="20px" font-weight="700" text-transform="uppercase" inner-padding="20px 48px" border-radius="8px" background-color="#ee302e" color="#fff">
+              <span style="font-family: 'EuclidFlex', 'Manrope', Arial, sans-serif;">play now</span>
+            </mj-button>
+          </mj-column>
+          <mj-column width="35%">
+            <mj-social padding="0" align="right" icon-padding="10px" mode="horizontal">
+              <mj-social-element css-class="socialItem" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/icons/Facebook.png" alt="facebook" icon-size="36px" href="https://mjml.io/">
+              </mj-social-element>
+              <mj-social-element css-class="socialItem" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/icons/insta.png" alt="legal" icon-size="36px" href="https://mjml.io/">
+              </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- Trending Games Header -->
+      <mj-section padding="12px 0 10px">
+        <mj-column>
+          <mj-text padding="0" font-weight="700" text-transform="uppercase" color="#ed2f2d" align="center">
+            <div class="headingTwo"><span style="color: #fff">Hot &</span> TRENDING</div>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Game List Section -->
+      <mj-section padding="0">
+        <mj-group css-class="gamesList">
+          <!-- Game 1 -->
+          <mj-column padding="0 8px">
+            <mj-image css-class="gamesList__img" href="#" padding="0" border="1px solid #fff" border-radius="8px" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/games/9-pots-of-gold.jpg"></mj-image>
+            <mj-text padding="12px 0 0 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#fff" align="center">9 Pots of Gold</mj-text>
+          </mj-column>
+
+          <!-- Game 2 -->
+          <mj-column padding="0 8px">
+            <mj-image css-class="gamesList__img" href="#" padding="0" border="1px solid #fff" border-radius="8px" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/games/bass-cash.jpg"></mj-image>
+            <mj-text padding="12px 0 0 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#fff" align="center">Bass Cash</mj-text>
+          </mj-column>
+
+          <!-- Game 3 -->
+          <mj-column padding="0 8px">
+            <mj-image css-class="gamesList__img" href="#" padding="0" border="1px solid #fff" border-radius="8px" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/games/stellar.jpg"></mj-image>
+            <mj-text padding="12px 0 0 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#fff" align="center">Stellar</mj-text>
+          </mj-column>
+
+          <!-- Game 4 -->
+          <mj-column padding="0 8px">
+            <mj-image css-class="gamesList__img" href="#" padding="0" border="1px solid #fff" border-radius="8px" src="https://go.netbet.ro/lp-asset/shared/casino777/email-templates/games/ammit-treasure.jpg"></mj-image>
+            <mj-text padding="12px 0 0 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#fff" align="center">Ammit Treasure</mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- Footer Section -->
+      <mj-section padding="40px 0 0">
+        <mj-group>
+          <mj-column width="70%" vertical-align="bottom">
+            <mj-text padding="0" text-transform="uppercase" font-weight="700" color="#fff">
+              <div class="headingThree">When all comes together</div>
+            </mj-text>
+          </mj-column>
+          <mj-column width="30%" vertical-align="middle">
+            <mj-image padding="0" border-radius="8px" align="right" width="147px" src="https://i.ibb.co/MDJGJPDr/777-logo.png"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- Legal Section -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text padding="30px 0 16px 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#9a9090" align="center">
+            This email is sent to you to ensure the proper management of your account. <a href="#" style="color: #fff;text-decoration: none;">777.be </a>is committed to conducting its activities in compliance with responsible gaming rules and GDPR (General Data Protection Regulation) to ensure the protection of players and their data.
+          </mj-text>
+          <mj-text padding="0 0 40px 0" font-family="Poppins, Arial" font-size="12px" line-height="16px" color="#9a9090" align="center">
+            <span style="display: block;">PLAY FOR FUN, PLAY RESPONSIBLY. </span>
+            <span style="display: block;">If you believe you need help, visit our <a href="#" style="color: #fff;text-decoration: none;">Responsible Gaming</a> page.</span>
+            <span style="display: block;">If you wish to self-exclude, you can do so online on the Gaming Commission's website.</span>
+            If you no longer wish to receive these emails, <a href="#" style="color: #fff;text-decoration: none;">click here.</a>
+          </mj-text>
+          <mj-image padding="0 0 30px" border-radius="8px" align="center" width="256px" src="http://go.netbet.ro/lp-asset/shared/casino777/email-templates/icons/legal.png"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

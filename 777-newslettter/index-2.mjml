@@ -24,65 +24,14 @@
             src          : url("https://ammarhabib.me/demo/assets/fonts/EuclidFlexBold.ttf") format("truetype");
         } </mj-style>
         <mj-style>
-            .mainHeading {
-            font-size   : 180px;
-            line-height : 145px;
-            color       : #ed2f2d;
-        }
-
-        .ofThe {
-            font-size   : 145px;
-            line-height : 130px;
-        }
-
-        .headingTwo {
-            font-size   : 62px;
-            line-height : 70px;
-            color       : #ed2f2d;
-        }
-
-        .headingThree {
-            font-size : 24px;
-        }
-
+           
         getReadyContent {
             font-size   : 24px;
             line-height : 1.33;
         }
 
-        @media only screen and (max-width : 599px) {
-            .mainHeading {
-                font-size   : 175px;
-                line-height : 135px;
-            }
-
-            .ofThe {
-                font-size   : 145px;
-                line-height : 120px;
-            }
-
-            .headingTwo {
-                font-size   : 60px;
-                line-height : 60px;
-            }
-        }
-
-        @media only screen and (max-width : 560px) {
-            .mainHeading {
-                font-size   : 138px;
-                line-height : 135px;
-                color       : #ed2f2d;
-            }
-
-            .ofThe {
-                font-size   : 110px;
-                line-height : 85px;
-            }
-
-            .headingTwo {
-                font-size : 48px;
-            }
-        }
+        
+        
 
         @media only screen and (max-width : 480px) {
             .headingThree {
