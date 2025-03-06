@@ -3,7 +3,7 @@
     <mj-body>
         <mj-wrapper padding="15px">
           <mj-hero css-class="IndexBanner Welcome" mode="fluid-height" background-width="600px"
-                     background-url="img/desktopBanner.png" background-position="top center"  padding="0" background-color="blue">
+                     background-url="img/bannerBg.png" background-position="top center"  padding="0" background-color="#fff">
                 <mj-image src="img/logo.png" width="45px" padding-top="50px" alt="logo" align="center"></mj-image>
                 <mj-text padding="20px 20px 15px" color="#ffffff" align="center" font-size="24px" line-height="31px"
                          font-weight="700">Welcome to Alqen!
@@ -17,7 +17,7 @@
             </mj-hero>
           <mj-section background-color="#ffffff"  css-class="xsHide" padding="0 1px">
                 <mj-column padding="0">
-                     <mj-image padding="0" src="img/wellcomeImg.png"></mj-image>
+                     <mj-image padding="0" src="img/confirmBannerPart.png"></mj-image>
                 </mj-column>
             </mj-section>
             <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="50px">
